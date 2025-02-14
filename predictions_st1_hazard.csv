@@ -1,0 +1,998 @@
+index,true_label,predicted_label
+0,biological,biological
+1,biological,biological
+2,biological,biological
+3,biological,biological
+4,foreign bodies,foreign bodies
+5,biological,biological
+6,biological,biological
+7,biological,biological
+8,foreign bodies,foreign bodies
+9,chemical,biological
+10,biological,biological
+11,biological,biological
+12,allergens,allergens
+13,biological,biological
+14,chemical,chemical
+15,foreign bodies,foreign bodies
+16,allergens,allergens
+17,chemical,chemical
+18,chemical,chemical
+19,biological,biological
+20,foreign bodies,foreign bodies
+21,allergens,allergens
+22,biological,biological
+23,foreign bodies,foreign bodies
+24,fraud,allergens
+25,allergens,allergens
+26,fraud,fraud
+27,biological,chemical
+28,allergens,allergens
+29,foreign bodies,foreign bodies
+30,organoleptic aspects,organoleptic aspects
+31,fraud,fraud
+32,allergens,allergens
+33,foreign bodies,foreign bodies
+34,biological,biological
+35,foreign bodies,foreign bodies
+36,allergens,allergens
+37,allergens,allergens
+38,fraud,allergens
+39,allergens,allergens
+40,allergens,allergens
+41,biological,biological
+42,allergens,allergens
+43,fraud,fraud
+44,allergens,allergens
+45,foreign bodies,foreign bodies
+46,allergens,fraud
+47,allergens,allergens
+48,biological,biological
+49,chemical,chemical
+50,foreign bodies,foreign bodies
+51,biological,biological
+52,foreign bodies,foreign bodies
+53,biological,biological
+54,biological,biological
+55,other hazard,fraud
+56,biological,biological
+57,biological,biological
+58,fraud,fraud
+59,other hazard,other hazard
+60,biological,biological
+61,biological,biological
+62,foreign bodies,foreign bodies
+63,biological,biological
+64,allergens,allergens
+65,biological,biological
+66,biological,biological
+67,biological,biological
+68,biological,biological
+69,biological,biological
+70,biological,biological
+71,biological,biological
+72,biological,biological
+73,biological,biological
+74,biological,biological
+75,allergens,fraud
+76,biological,biological
+77,allergens,allergens
+78,biological,biological
+79,allergens,allergens
+80,foreign bodies,foreign bodies
+81,chemical,chemical
+82,biological,biological
+83,biological,biological
+84,fraud,fraud
+85,allergens,allergens
+86,biological,biological
+87,biological,biological
+88,biological,biological
+89,biological,biological
+90,biological,biological
+91,biological,biological
+92,biological,biological
+93,packaging defect,foreign bodies
+94,food additives and flavourings,fraud
+95,allergens,allergens
+96,allergens,biological
+97,biological,biological
+98,allergens,allergens
+99,biological,biological
+100,chemical,chemical
+101,allergens,allergens
+102,biological,biological
+103,biological,biological
+104,foreign bodies,foreign bodies
+105,other hazard,fraud
+106,biological,biological
+107,chemical,chemical
+108,chemical,chemical
+109,biological,biological
+110,biological,fraud
+111,allergens,allergens
+112,allergens,allergens
+113,biological,biological
+114,allergens,allergens
+115,biological,biological
+116,fraud,fraud
+117,allergens,allergens
+118,allergens,allergens
+119,allergens,allergens
+120,allergens,allergens
+121,biological,other hazard
+122,allergens,allergens
+123,allergens,allergens
+124,biological,biological
+125,biological,biological
+126,biological,biological
+127,biological,biological
+128,biological,biological
+129,foreign bodies,foreign bodies
+130,biological,biological
+131,fraud,fraud
+132,biological,biological
+133,biological,biological
+134,biological,biological
+135,biological,biological
+136,allergens,allergens
+137,biological,biological
+138,biological,biological
+139,biological,biological
+140,allergens,allergens
+141,biological,biological
+142,foreign bodies,foreign bodies
+143,fraud,fraud
+144,fraud,fraud
+145,allergens,allergens
+146,foreign bodies,foreign bodies
+147,fraud,fraud
+148,allergens,allergens
+149,allergens,allergens
+150,biological,biological
+151,allergens,allergens
+152,allergens,allergens
+153,foreign bodies,foreign bodies
+154,biological,biological
+155,allergens,allergens
+156,biological,biological
+157,biological,biological
+158,biological,biological
+159,allergens,allergens
+160,biological,biological
+161,biological,biological
+162,allergens,allergens
+163,biological,biological
+164,biological,biological
+165,biological,biological
+166,biological,biological
+167,biological,biological
+168,biological,biological
+169,biological,biological
+170,biological,biological
+171,biological,biological
+172,foreign bodies,foreign bodies
+173,biological,biological
+174,foreign bodies,foreign bodies
+175,biological,biological
+176,fraud,fraud
+177,allergens,allergens
+178,fraud,fraud
+179,allergens,allergens
+180,biological,biological
+181,allergens,allergens
+182,allergens,allergens
+183,allergens,allergens
+184,allergens,allergens
+185,biological,biological
+186,allergens,allergens
+187,fraud,fraud
+188,allergens,allergens
+189,biological,biological
+190,other hazard,organoleptic aspects
+191,allergens,allergens
+192,fraud,fraud
+193,allergens,allergens
+194,biological,biological
+195,biological,biological
+196,foreign bodies,foreign bodies
+197,other hazard,other hazard
+198,allergens,allergens
+199,allergens,allergens
+200,allergens,allergens
+201,fraud,fraud
+202,allergens,allergens
+203,allergens,allergens
+204,foreign bodies,foreign bodies
+205,foreign bodies,foreign bodies
+206,allergens,allergens
+207,biological,biological
+208,biological,biological
+209,allergens,allergens
+210,foreign bodies,foreign bodies
+211,allergens,allergens
+212,biological,biological
+213,organoleptic aspects,organoleptic aspects
+214,fraud,fraud
+215,allergens,allergens
+216,foreign bodies,foreign bodies
+217,fraud,allergens
+218,allergens,allergens
+219,organoleptic aspects,organoleptic aspects
+220,allergens,allergens
+221,allergens,allergens
+222,biological,biological
+223,allergens,allergens
+224,packaging defect,packaging defect
+225,foreign bodies,foreign bodies
+226,biological,biological
+227,biological,biological
+228,fraud,fraud
+229,allergens,allergens
+230,fraud,fraud
+231,foreign bodies,foreign bodies
+232,fraud,fraud
+233,fraud,fraud
+234,biological,biological
+235,allergens,allergens
+236,allergens,allergens
+237,allergens,allergens
+238,fraud,fraud
+239,allergens,allergens
+240,foreign bodies,foreign bodies
+241,other hazard,packaging defect
+242,other hazard,other hazard
+243,other hazard,other hazard
+244,allergens,allergens
+245,allergens,allergens
+246,foreign bodies,foreign bodies
+247,fraud,other hazard
+248,allergens,allergens
+249,packaging defect,packaging defect
+250,allergens,allergens
+251,allergens,allergens
+252,allergens,allergens
+253,allergens,allergens
+254,chemical,chemical
+255,allergens,allergens
+256,allergens,allergens
+257,allergens,allergens
+258,packaging defect,packaging defect
+259,foreign bodies,foreign bodies
+260,biological,biological
+261,allergens,allergens
+262,allergens,allergens
+263,biological,biological
+264,fraud,fraud
+265,fraud,fraud
+266,allergens,allergens
+267,allergens,allergens
+268,biological,biological
+269,allergens,allergens
+270,allergens,allergens
+271,biological,biological
+272,allergens,allergens
+273,foreign bodies,foreign bodies
+274,chemical,chemical
+275,fraud,fraud
+276,fraud,fraud
+277,fraud,fraud
+278,allergens,allergens
+279,allergens,allergens
+280,biological,biological
+281,fraud,fraud
+282,foreign bodies,foreign bodies
+283,allergens,allergens
+284,biological,biological
+285,biological,biological
+286,fraud,chemical
+287,biological,biological
+288,fraud,fraud
+289,allergens,allergens
+290,allergens,biological
+291,allergens,allergens
+292,other hazard,other hazard
+293,allergens,allergens
+294,allergens,allergens
+295,foreign bodies,foreign bodies
+296,chemical,chemical
+297,allergens,allergens
+298,foreign bodies,foreign bodies
+299,foreign bodies,foreign bodies
+300,biological,biological
+301,allergens,allergens
+302,allergens,allergens
+303,biological,other hazard
+304,biological,biological
+305,biological,biological
+306,biological,biological
+307,allergens,allergens
+308,foreign bodies,foreign bodies
+309,allergens,allergens
+310,biological,biological
+311,foreign bodies,foreign bodies
+312,allergens,allergens
+313,biological,biological
+314,allergens,allergens
+315,biological,biological
+316,allergens,allergens
+317,allergens,allergens
+318,biological,biological
+319,allergens,allergens
+320,allergens,allergens
+321,allergens,allergens
+322,allergens,allergens
+323,allergens,allergens
+324,biological,biological
+325,fraud,other hazard
+326,allergens,allergens
+327,allergens,allergens
+328,allergens,allergens
+329,biological,biological
+330,biological,biological
+331,biological,biological
+332,allergens,allergens
+333,biological,biological
+334,biological,biological
+335,biological,biological
+336,biological,biological
+337,allergens,allergens
+338,biological,biological
+339,biological,biological
+340,biological,biological
+341,foreign bodies,foreign bodies
+342,biological,biological
+343,biological,biological
+344,biological,biological
+345,allergens,allergens
+346,allergens,allergens
+347,allergens,allergens
+348,biological,biological
+349,biological,biological
+350,biological,biological
+351,biological,biological
+352,fraud,fraud
+353,biological,biological
+354,biological,biological
+355,biological,biological
+356,biological,biological
+357,biological,biological
+358,allergens,allergens
+359,fraud,fraud
+360,allergens,allergens
+361,biological,biological
+362,allergens,biological
+363,allergens,allergens
+364,allergens,allergens
+365,chemical,chemical
+366,allergens,allergens
+367,biological,biological
+368,foreign bodies,foreign bodies
+369,foreign bodies,foreign bodies
+370,allergens,allergens
+371,chemical,chemical
+372,allergens,allergens
+373,allergens,allergens
+374,foreign bodies,foreign bodies
+375,allergens,allergens
+376,foreign bodies,foreign bodies
+377,allergens,allergens
+378,allergens,allergens
+379,biological,biological
+380,foreign bodies,foreign bodies
+381,packaging defect,packaging defect
+382,allergens,allergens
+383,allergens,allergens
+384,foreign bodies,foreign bodies
+385,allergens,allergens
+386,biological,biological
+387,biological,biological
+388,fraud,fraud
+389,allergens,allergens
+390,allergens,allergens
+391,other hazard,other hazard
+392,biological,biological
+393,allergens,allergens
+394,biological,biological
+395,biological,biological
+396,biological,biological
+397,biological,biological
+398,other hazard,other hazard
+399,foreign bodies,foreign bodies
+400,allergens,allergens
+401,biological,biological
+402,allergens,allergens
+403,biological,biological
+404,biological,biological
+405,foreign bodies,foreign bodies
+406,fraud,allergens
+407,foreign bodies,foreign bodies
+408,biological,biological
+409,other hazard,fraud
+410,biological,biological
+411,fraud,fraud
+412,allergens,allergens
+413,foreign bodies,foreign bodies
+414,allergens,allergens
+415,allergens,allergens
+416,other hazard,other hazard
+417,foreign bodies,foreign bodies
+418,allergens,allergens
+419,foreign bodies,foreign bodies
+420,food additives and flavourings,food additives and flavourings
+421,allergens,allergens
+422,allergens,allergens
+423,biological,biological
+424,allergens,allergens
+425,allergens,allergens
+426,allergens,allergens
+427,biological,biological
+428,biological,biological
+429,allergens,allergens
+430,biological,biological
+431,organoleptic aspects,other hazard
+432,foreign bodies,foreign bodies
+433,fraud,fraud
+434,allergens,allergens
+435,foreign bodies,foreign bodies
+436,allergens,allergens
+437,biological,biological
+438,biological,biological
+439,fraud,fraud
+440,foreign bodies,foreign bodies
+441,allergens,allergens
+442,allergens,allergens
+443,foreign bodies,foreign bodies
+444,biological,biological
+445,allergens,allergens
+446,biological,biological
+447,allergens,allergens
+448,biological,biological
+449,biological,biological
+450,allergens,allergens
+451,allergens,allergens
+452,allergens,allergens
+453,allergens,allergens
+454,allergens,allergens
+455,biological,biological
+456,allergens,allergens
+457,allergens,allergens
+458,biological,other hazard
+459,organoleptic aspects,organoleptic aspects
+460,chemical,chemical
+461,allergens,allergens
+462,biological,biological
+463,foreign bodies,foreign bodies
+464,biological,biological
+465,biological,biological
+466,chemical,chemical
+467,allergens,allergens
+468,allergens,allergens
+469,allergens,allergens
+470,biological,biological
+471,allergens,allergens
+472,allergens,allergens
+473,allergens,allergens
+474,allergens,allergens
+475,foreign bodies,foreign bodies
+476,allergens,allergens
+477,allergens,allergens
+478,allergens,allergens
+479,biological,biological
+480,allergens,allergens
+481,biological,biological
+482,biological,biological
+483,allergens,allergens
+484,biological,biological
+485,biological,biological
+486,allergens,allergens
+487,biological,allergens
+488,other hazard,other hazard
+489,allergens,allergens
+490,foreign bodies,foreign bodies
+491,allergens,allergens
+492,foreign bodies,foreign bodies
+493,biological,biological
+494,allergens,allergens
+495,biological,biological
+496,biological,biological
+497,biological,biological
+498,packaging defect,packaging defect
+499,biological,biological
+500,allergens,allergens
+501,biological,biological
+502,biological,biological
+503,chemical,chemical
+504,allergens,allergens
+505,foreign bodies,foreign bodies
+506,allergens,allergens
+507,allergens,allergens
+508,allergens,allergens
+509,biological,biological
+510,allergens,allergens
+511,allergens,allergens
+512,fraud,allergens
+513,chemical,chemical
+514,allergens,allergens
+515,allergens,allergens
+516,biological,biological
+517,biological,biological
+518,allergens,allergens
+519,fraud,allergens
+520,other hazard,biological
+521,biological,biological
+522,allergens,allergens
+523,biological,biological
+524,chemical,chemical
+525,allergens,allergens
+526,biological,biological
+527,foreign bodies,foreign bodies
+528,biological,biological
+529,biological,biological
+530,biological,biological
+531,biological,biological
+532,biological,biological
+533,biological,biological
+534,foreign bodies,foreign bodies
+535,allergens,allergens
+536,allergens,allergens
+537,allergens,allergens
+538,allergens,allergens
+539,packaging defect,packaging defect
+540,allergens,allergens
+541,biological,biological
+542,allergens,allergens
+543,allergens,allergens
+544,biological,biological
+545,biological,biological
+546,foreign bodies,foreign bodies
+547,biological,biological
+548,fraud,fraud
+549,biological,biological
+550,foreign bodies,foreign bodies
+551,foreign bodies,foreign bodies
+552,allergens,allergens
+553,chemical,chemical
+554,allergens,allergens
+555,fraud,fraud
+556,allergens,allergens
+557,biological,biological
+558,biological,biological
+559,biological,biological
+560,allergens,allergens
+561,biological,biological
+562,foreign bodies,foreign bodies
+563,biological,biological
+564,foreign bodies,foreign bodies
+565,allergens,allergens
+566,biological,biological
+567,allergens,allergens
+568,foreign bodies,foreign bodies
+569,biological,biological
+570,allergens,allergens
+571,biological,biological
+572,other hazard,other hazard
+573,fraud,fraud
+574,biological,biological
+575,biological,biological
+576,foreign bodies,foreign bodies
+577,biological,biological
+578,allergens,allergens
+579,allergens,allergens
+580,biological,biological
+581,fraud,fraud
+582,biological,biological
+583,foreign bodies,foreign bodies
+584,allergens,allergens
+585,allergens,allergens
+586,biological,biological
+587,chemical,chemical
+588,biological,biological
+589,foreign bodies,foreign bodies
+590,allergens,allergens
+591,allergens,allergens
+592,biological,biological
+593,biological,other hazard
+594,biological,biological
+595,biological,biological
+596,allergens,allergens
+597,allergens,allergens
+598,foreign bodies,foreign bodies
+599,other hazard,organoleptic aspects
+600,allergens,allergens
+601,food additives and flavourings,food additives and flavourings
+602,biological,biological
+603,biological,biological
+604,biological,biological
+605,foreign bodies,foreign bodies
+606,packaging defect,packaging defect
+607,foreign bodies,foreign bodies
+608,fraud,fraud
+609,biological,biological
+610,biological,biological
+611,allergens,allergens
+612,fraud,fraud
+613,biological,biological
+614,allergens,allergens
+615,allergens,allergens
+616,other hazard,other hazard
+617,allergens,allergens
+618,allergens,allergens
+619,foreign bodies,foreign bodies
+620,biological,allergens
+621,chemical,chemical
+622,allergens,allergens
+623,chemical,chemical
+624,foreign bodies,foreign bodies
+625,foreign bodies,foreign bodies
+626,allergens,allergens
+627,fraud,fraud
+628,allergens,allergens
+629,allergens,allergens
+630,allergens,allergens
+631,foreign bodies,foreign bodies
+632,biological,biological
+633,biological,biological
+634,allergens,allergens
+635,allergens,allergens
+636,other hazard,fraud
+637,biological,biological
+638,biological,biological
+639,biological,biological
+640,allergens,allergens
+641,foreign bodies,foreign bodies
+642,foreign bodies,foreign bodies
+643,biological,biological
+644,allergens,allergens
+645,fraud,fraud
+646,foreign bodies,foreign bodies
+647,foreign bodies,foreign bodies
+648,biological,biological
+649,foreign bodies,foreign bodies
+650,allergens,allergens
+651,biological,biological
+652,biological,biological
+653,foreign bodies,foreign bodies
+654,biological,biological
+655,foreign bodies,foreign bodies
+656,allergens,allergens
+657,allergens,allergens
+658,allergens,allergens
+659,allergens,allergens
+660,allergens,allergens
+661,allergens,allergens
+662,allergens,allergens
+663,allergens,allergens
+664,allergens,allergens
+665,allergens,allergens
+666,chemical,chemical
+667,biological,biological
+668,fraud,fraud
+669,allergens,allergens
+670,allergens,allergens
+671,biological,biological
+672,biological,biological
+673,allergens,allergens
+674,biological,biological
+675,biological,biological
+676,foreign bodies,foreign bodies
+677,allergens,allergens
+678,biological,biological
+679,allergens,allergens
+680,allergens,allergens
+681,allergens,allergens
+682,allergens,allergens
+683,biological,biological
+684,chemical,chemical
+685,other hazard,other hazard
+686,foreign bodies,foreign bodies
+687,allergens,allergens
+688,biological,biological
+689,biological,biological
+690,biological,biological
+691,biological,biological
+692,biological,biological
+693,biological,biological
+694,biological,biological
+695,biological,biological
+696,foreign bodies,foreign bodies
+697,biological,other hazard
+698,biological,biological
+699,biological,biological
+700,fraud,fraud
+701,foreign bodies,foreign bodies
+702,biological,biological
+703,allergens,allergens
+704,biological,biological
+705,allergens,allergens
+706,biological,biological
+707,foreign bodies,foreign bodies
+708,biological,biological
+709,biological,biological
+710,organoleptic aspects,organoleptic aspects
+711,fraud,fraud
+712,biological,biological
+713,foreign bodies,foreign bodies
+714,biological,biological
+715,biological,biological
+716,fraud,fraud
+717,allergens,allergens
+718,allergens,allergens
+719,allergens,allergens
+720,biological,biological
+721,biological,biological
+722,biological,biological
+723,allergens,allergens
+724,biological,biological
+725,allergens,allergens
+726,biological,biological
+727,biological,biological
+728,biological,biological
+729,biological,biological
+730,allergens,allergens
+731,allergens,allergens
+732,foreign bodies,foreign bodies
+733,chemical,chemical
+734,other hazard,packaging defect
+735,allergens,allergens
+736,biological,biological
+737,chemical,chemical
+738,allergens,allergens
+739,allergens,allergens
+740,fraud,allergens
+741,allergens,allergens
+742,allergens,allergens
+743,biological,biological
+744,foreign bodies,foreign bodies
+745,allergens,allergens
+746,biological,other hazard
+747,fraud,allergens
+748,allergens,allergens
+749,biological,biological
+750,allergens,allergens
+751,chemical,chemical
+752,allergens,allergens
+753,allergens,allergens
+754,allergens,allergens
+755,allergens,allergens
+756,allergens,allergens
+757,allergens,allergens
+758,allergens,allergens
+759,foreign bodies,foreign bodies
+760,allergens,allergens
+761,biological,biological
+762,biological,biological
+763,biological,biological
+764,packaging defect,packaging defect
+765,allergens,allergens
+766,foreign bodies,foreign bodies
+767,biological,biological
+768,allergens,allergens
+769,fraud,fraud
+770,allergens,allergens
+771,allergens,allergens
+772,allergens,allergens
+773,biological,biological
+774,biological,biological
+775,allergens,allergens
+776,biological,biological
+777,allergens,allergens
+778,biological,biological
+779,allergens,allergens
+780,allergens,allergens
+781,fraud,fraud
+782,biological,biological
+783,other hazard,biological
+784,biological,biological
+785,biological,biological
+786,allergens,allergens
+787,food additives and flavourings,other hazard
+788,allergens,allergens
+789,allergens,allergens
+790,allergens,allergens
+791,allergens,allergens
+792,allergens,allergens
+793,allergens,allergens
+794,allergens,allergens
+795,biological,biological
+796,allergens,allergens
+797,foreign bodies,foreign bodies
+798,foreign bodies,foreign bodies
+799,biological,biological
+800,allergens,allergens
+801,organoleptic aspects,organoleptic aspects
+802,foreign bodies,foreign bodies
+803,allergens,allergens
+804,fraud,fraud
+805,biological,biological
+806,allergens,allergens
+807,other hazard,other hazard
+808,foreign bodies,foreign bodies
+809,biological,biological
+810,biological,biological
+811,fraud,fraud
+812,biological,biological
+813,allergens,allergens
+814,allergens,allergens
+815,biological,biological
+816,fraud,other hazard
+817,foreign bodies,foreign bodies
+818,chemical,chemical
+819,biological,biological
+820,fraud,allergens
+821,allergens,allergens
+822,chemical,chemical
+823,chemical,chemical
+824,biological,biological
+825,allergens,allergens
+826,fraud,fraud
+827,chemical,chemical
+828,fraud,fraud
+829,allergens,allergens
+830,allergens,allergens
+831,allergens,allergens
+832,foreign bodies,foreign bodies
+833,chemical,chemical
+834,biological,biological
+835,allergens,allergens
+836,allergens,allergens
+837,allergens,allergens
+838,foreign bodies,foreign bodies
+839,chemical,chemical
+840,allergens,allergens
+841,organoleptic aspects,other hazard
+842,biological,biological
+843,allergens,allergens
+844,packaging defect,packaging defect
+845,allergens,allergens
+846,allergens,allergens
+847,chemical,fraud
+848,allergens,allergens
+849,chemical,chemical
+850,allergens,allergens
+851,allergens,allergens
+852,biological,biological
+853,chemical,chemical
+854,allergens,allergens
+855,allergens,allergens
+856,allergens,allergens
+857,chemical,chemical
+858,fraud,fraud
+859,allergens,allergens
+860,biological,biological
+861,allergens,allergens
+862,biological,biological
+863,foreign bodies,foreign bodies
+864,allergens,allergens
+865,biological,biological
+866,biological,biological
+867,allergens,allergens
+868,allergens,allergens
+869,allergens,allergens
+870,biological,biological
+871,biological,biological
+872,fraud,fraud
+873,allergens,allergens
+874,allergens,allergens
+875,allergens,allergens
+876,allergens,allergens
+877,allergens,allergens
+878,allergens,allergens
+879,allergens,allergens
+880,allergens,allergens
+881,allergens,allergens
+882,biological,biological
+883,biological,biological
+884,allergens,allergens
+885,biological,biological
+886,allergens,allergens
+887,biological,biological
+888,allergens,allergens
+889,allergens,allergens
+890,allergens,allergens
+891,allergens,allergens
+892,chemical,chemical
+893,fraud,allergens
+894,other hazard,other hazard
+895,biological,biological
+896,biological,biological
+897,biological,biological
+898,chemical,chemical
+899,allergens,allergens
+900,allergens,allergens
+901,biological,biological
+902,chemical,chemical
+903,allergens,allergens
+904,biological,biological
+905,biological,biological
+906,chemical,chemical
+907,chemical,chemical
+908,allergens,allergens
+909,fraud,fraud
+910,foreign bodies,foreign bodies
+911,biological,biological
+912,allergens,allergens
+913,biological,biological
+914,foreign bodies,foreign bodies
+915,chemical,chemical
+916,chemical,chemical
+917,chemical,chemical
+918,foreign bodies,foreign bodies
+919,biological,biological
+920,biological,biological
+921,foreign bodies,foreign bodies
+922,chemical,chemical
+923,biological,biological
+924,biological,biological
+925,chemical,chemical
+926,biological,biological
+927,foreign bodies,foreign bodies
+928,biological,biological
+929,allergens,allergens
+930,allergens,allergens
+931,chemical,chemical
+932,allergens,allergens
+933,allergens,allergens
+934,allergens,allergens
+935,fraud,fraud
+936,foreign bodies,foreign bodies
+937,allergens,allergens
+938,allergens,allergens
+939,biological,biological
+940,chemical,chemical
+941,allergens,allergens
+942,allergens,allergens
+943,foreign bodies,foreign bodies
+944,organoleptic aspects,organoleptic aspects
+945,allergens,allergens
+946,fraud,fraud
+947,biological,biological
+948,fraud,fraud
+949,biological,biological
+950,allergens,allergens
+951,foreign bodies,foreign bodies
+952,other hazard,other hazard
+953,allergens,allergens
+954,allergens,allergens
+955,biological,biological
+956,biological,biological
+957,biological,biological
+958,fraud,allergens
+959,biological,biological
+960,biological,biological
+961,other hazard,other hazard
+962,allergens,allergens
+963,migration,chemical
+964,biological,biological
+965,biological,biological
+966,biological,biological
+967,allergens,allergens
+968,biological,biological
+969,allergens,allergens
+970,allergens,allergens
+971,biological,biological
+972,foreign bodies,foreign bodies
+973,organoleptic aspects,foreign bodies
+974,allergens,allergens
+975,biological,biological
+976,biological,biological
+977,biological,biological
+978,allergens,allergens
+979,allergens,allergens
+980,biological,biological
+981,allergens,allergens
+982,biological,biological
+983,biological,biological
+984,biological,biological
+985,allergens,allergens
+986,allergens,allergens
+987,fraud,fraud
+988,chemical,chemical
+989,allergens,allergens
+990,allergens,allergens
+991,allergens,allergens
+992,fraud,allergens
+993,biological,biological
+994,biological,biological
+995,chemical,chemical
+996,allergens,allergens

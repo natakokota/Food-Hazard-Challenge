@@ -1,0 +1,998 @@
+index,true_label,predicted_label
+0,listeria monocytogenes,listeria monocytogenes
+1,listeria monocytogenes,listeria spp
+2,listeria monocytogenes,listeria monocytogenes
+3,metal fragment,listeria monocytogenes
+4,metal fragment,metal fragment
+5,salmonella,salmonella
+6,metal fragment,listeria monocytogenes
+7,listeria monocytogenes,listeria monocytogenes
+8,glass fragment,glass fragment
+9,metal fragment,toxin
+10,escherichia coli,escherichia coli
+11,listeria monocytogenes,listeria monocytogenes
+12,metal fragment,milk and products thereof
+13,metal fragment,listeria monocytogenes
+14,polycyclic aromatic hydrocarbons,polycyclic aromatic hydrocarbons
+15,metal fragment,metal fragment
+16,soybeans and products thereof,soybeans and products thereof
+17,packaging defect,other not classified chemical hazards
+18,ochratoxin,chemical compound (high content)
+19,metal fragment,other not classified biological hazards
+20,glass fragment,glass fragment
+21,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+22,escherichia coli,escherichia coli
+23,metal fragment,metal fragment
+24,milk and products thereof,labelling/misdescription
+25,cashew,nuts
+26,cereals containing gluten and products thereof,labelling/misdescription
+27,microbiological contamination,other not classified biological hazards
+28,cereals containing gluten and products thereof,milk and products thereof
+29,glass fragment,glass fragment
+30,spoilage,spoilage
+31,ochratoxin,labelling/misdescription
+32,milk and products thereof,milk and products thereof
+33,metal fragment,metal fragment
+34,escherichia coli,escherichia coli
+35,glass fragment,plastic fragment
+36,peanuts and products thereof,peanuts and products thereof
+37,sulphur dioxide,sulphur dioxide and sulphites
+38,metal fragment,labelling/misdescription
+39,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+40,sesame seeds and products thereof,sesame seeds and products thereof
+41,listeria monocytogenes,listeria monocytogenes
+42,sesame seeds and products thereof,peanuts and products thereof
+43,plastic fragment,incorrect labeling
+44,soybeans and products thereof,soybeans and products thereof
+45,metal fragment,metal fragment
+46,soybeans and products thereof,crustaceans and products thereof
+47,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+48,salmonella,escherichia coli
+49,other,other
+50,metal fragment,metal fragment
+51,listeria monocytogenes,listeria monocytogenes
+52,milk and products thereof,foreign bodies
+53,microbiological contamination,bacillus spp.
+54,listeria monocytogenes,listeria monocytogenes
+55,other,other
+56,escherichia coli,escherichia coli
+57,escherichia coli,escherichia coli
+58,glass fragment,labelling/misdescription
+59,metal fragment,other not classified
+60,listeria monocytogenes,listeria monocytogenes
+61,metal fragment,listeria monocytogenes
+62,plastic fragment,rubber fragments
+63,salmonella,salmonella
+64,metal fragment,soybeans and products thereof
+65,salmonella,salmonella
+66,salmonella,salmonella
+67,salmonella,salmonella
+68,salmonella,salmonella
+69,salmonella,salmonella
+70,salmonella,salmonella
+71,salmonella,salmonella
+72,listeria monocytogenes,listeria monocytogenes
+73,salmonella,salmonella
+74,salmonella,salmonella
+75,salmonella,eggs and products thereof
+76,salmonella,salmonella
+77,milk and products thereof,milk and products thereof
+78,salmonella,salmonella
+79,almond,almond
+80,plastic fragment,plastic fragment
+81,ochratoxin,amygdalin
+82,metal fragment,listeria monocytogenes
+83,escherichia coli,escherichia coli
+84,sesame seeds and products thereof,labelling/misdescription
+85,hazelnut,milk and products thereof
+86,salmonella,salmonella
+87,salmonella,salmonella
+88,listeria monocytogenes,listeria monocytogenes
+89,salmonella,salmonella
+90,microbiological contamination,other
+91,escherichia coli,escherichia coli
+92,salmonella,salmonella
+93,plastic fragment,packaging defect
+94,other,other
+95,peanuts and products thereof,peanuts and products thereof
+96,metal fragment,milk and products thereof
+97,listeria monocytogenes,listeria monocytogenes
+98,peanuts and products thereof,peanuts and products thereof
+99,microbiological contamination,salmonella
+100,spoilage,chemical compound (unauthorised)
+101,milk and products thereof,milk and products thereof
+102,metal fragment,microbiological contamination
+103,salmonella,salmonella
+104,glass fragment,glass fragment
+105,milk and products thereof,improper conditions
+106,metal fragment,bacillus spp.
+107,packaging defect,other
+108,microbiological contamination,high content of cyanide
+109,foreign bodies,listeria monocytogenes
+110,salmonella,listeria monocytogenes
+111,peanuts and products thereof,peanuts and products thereof
+112,eggs and products thereof,eggs and products thereof
+113,listeria monocytogenes,listeria monocytogenes
+114,cereals containing gluten and products thereof,milk and products thereof
+115,listeria monocytogenes,listeria monocytogenes
+116,inspection issues,inspection issues
+117,eggs and products thereof,eggs and products thereof
+118,soybeans and products thereof,milk and products thereof
+119,peanuts and products thereof,peanuts and products thereof
+120,cereals containing gluten and products thereof,eggs and products thereof
+121,spoilage,microbiological contamination
+122,milk and products thereof,milk and products thereof
+123,soybeans and products thereof,soybeans and products thereof
+124,listeria monocytogenes,listeria monocytogenes
+125,escherichia coli,escherichia coli
+126,listeria monocytogenes,listeria monocytogenes
+127,escherichia coli,escherichia coli
+128,escherichia coli,escherichia coli
+129,metal fragment,metal fragment
+130,salmonella,salmonella
+131,other misbranding issues,other misbranding issues
+132,salmonella,salmonella
+133,bacillus spp.,bacillus spp.
+134,salmonella,salmonella
+135,salmonella,salmonella
+136,soybeans and products thereof,soybeans and products thereof
+137,salmonella,salmonella
+138,salmonella,salmonella
+139,escherichia coli,escherichia coli
+140,soybeans and products thereof,pecan nut
+141,salmonella,salmonella
+142,other not classified hazards for foreign bodies,plastic fragment
+143,undeclared additive,undeclared additive
+144,plastic fragment,other
+145,soybeans and products thereof,cereals containing gluten and products thereof
+146,plastic fragment,plastic fragment
+147,inspection issues,inspection issues
+148,eggs and products thereof,eggs and products thereof
+149,soybeans and products thereof,cereals containing gluten and products thereof
+150,listeria monocytogenes,listeria monocytogenes
+151,milk and products thereof,milk and products thereof
+152,milk and products thereof,milk and products thereof
+153,plastic fragment,plastic fragment
+154,salmonella,salmonella
+155,milk and products thereof,milk and products thereof
+156,salmonella,salmonella
+157,salmonella,salmonella
+158,salmonella,salmonella
+159,peanuts and products thereof,allergens
+160,salmonella,salmonella
+161,salmonella,salmonella
+162,milk and products thereof,milk and products thereof
+163,salmonella,salmonella
+164,salmonella,salmonella
+165,peanuts and products thereof,salmonella
+166,salmonella,salmonella
+167,salmonella,salmonella
+168,clostridium botulinum,clostridium botulinum
+169,salmonella,salmonella
+170,salmonella,salmonella
+171,listeria monocytogenes,listeria monocytogenes
+172,glass fragment,glass fragment
+173,escherichia coli,escherichia coli
+174,plastic fragment,foreign bodies
+175,salmonella,salmonella
+176,other,insufficient labelling/documentation
+177,soybeans and products thereof,soybeans and products thereof
+178,packaging defect,labelling/misdescription
+179,soybeans and products thereof,cereals containing gluten and products thereof
+180,listeria monocytogenes,listeria monocytogenes
+181,eggs and products thereof,cereals containing gluten and products thereof
+182,peanuts and products thereof,nuts
+183,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+184,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+185,salmonella,salmonella
+186,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+187,inspection issues,inspection issues
+188,soybeans and products thereof,soybeans and products thereof
+189,listeria monocytogenes,listeria monocytogenes
+190,processing,processing
+191,milk and products thereof,milk and products thereof
+192,inspection issues,false marketing claims
+193,soybeans and products thereof,eggs and products thereof
+194,salmonella,salmonella
+195,salmonella,salmonella
+196,other,other not classified hazards for foreign bodies
+197,specified risk material (srm),specified risk material (srm)
+198,soybeans and products thereof,milk and products thereof
+199,eggs and products thereof,fish and products thereof
+200,soybeans and products thereof,soybeans and products thereof
+201,undeclared additive,undeclared additive
+202,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+203,sesame seeds and products thereof,sesame seeds and products thereof
+204,metal fragment,metal fragment
+205,plastic fragment,plastic fragment
+206,peanuts and products thereof,peanuts and products thereof
+207,plastic fragment,escherichia coli
+208,listeria monocytogenes,listeria monocytogenes
+209,soybeans and products thereof,soybeans and products thereof
+210,plastic fragment,plastic fragment
+211,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+212,listeria monocytogenes,listeria monocytogenes
+213,spoilage,spoilage
+214,inspection issues,unauthorised import
+215,eggs and products thereof,walnut
+216,plastic fragment,plastic fragment
+217,soybeans and products thereof,cereals
+218,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+219,spoilage,spoilage
+220,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+221,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+222,escherichia coli,escherichia coli
+223,fish and products thereof,fish and products thereof
+224,packaging defect,packaging defect
+225,metal fragment,metal fragment
+226,listeria monocytogenes,listeria monocytogenes
+227,listeria monocytogenes,listeria monocytogenes
+228,misdescription,misdescription
+229,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+230,misdescription,inspection issues
+231,glass fragment,glass fragment
+232,misdescription,inspection issues
+233,inspection issues,inspection issues
+234,salmonella,salmonella
+235,peanuts and products thereof,peanuts and products thereof
+236,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+237,mustard and products thereof,mustard and products thereof
+238,inspection issues,inspection issues
+239,milk and products thereof,milk and products thereof
+240,plastic fragment,plastic fragment
+241,packaging defect,other not classified
+242,processing,poor or insufficient controls
+243,other not classified,other not classified
+244,peanuts and products thereof,peanuts and products thereof
+245,cereals containing gluten and products thereof,almond
+246,glass fragment,glass fragment
+247,moulds,insufficient labelling/documentation
+248,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+249,bulging packaging,bulging packaging
+250,sulphur dioxide and sulphites,soybeans and products thereof
+251,soybeans and products thereof,soybeans and products thereof
+252,soybeans and products thereof,eggs and products thereof
+253,soybeans and products thereof,soybeans and products thereof
+254,bulging packaging,other
+255,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+256,soybeans and products thereof,soybeans and products thereof
+257,milk and products thereof,milk and products thereof
+258,bulging packaging,bulging packaging
+259,plastic fragment,other
+260,staphylococcus,staphylococcus
+261,eggs and products thereof,eggs and products thereof
+262,mustard and products thereof,mustard and products thereof
+263,escherichia coli,escherichia coli
+264,misdescription,inspection issues
+265,insufficient labelling/documentation,misbranding
+266,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+267,milk and products thereof,milk and products thereof
+268,incorrect use by dates,listeria monocytogenes
+269,eggs and products thereof,eggs and products thereof
+270,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+271,escherichia coli,escherichia coli
+272,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+273,plastic fragment,plastic fragment
+274,other,unauthorised colour sudan 4
+275,misdescription,inspection issues
+276,other,inspection issues
+277,spoilage,insufficient labelling/documentation
+278,mustard and products thereof,mustard and products thereof
+279,milk and products thereof,milk and products thereof
+280,listeria monocytogenes,listeria monocytogenes
+281,inspection issues,misdescription
+282,spoilage,bone fragment
+283,milk and products thereof,milk and products thereof
+284,salmonella,salmonella
+285,cyclospora,cyclospora
+286,inspection issues,insufficient labelling/documentation
+287,listeria monocytogenes,listeria monocytogenes
+288,inspection issues,misdescription
+289,eggs and products thereof,fish and products thereof
+290,metal fragment,walnut
+291,soybeans and products thereof,soybeans and products thereof
+292,other,processing
+293,soybeans and products thereof,cereals containing gluten and products thereof
+294,peanuts and products thereof,peanuts and products thereof
+295,spoilage,insects
+296,spoilage,chemical
+297,mustard and products thereof,mustard and products thereof
+298,plastic fragment,glass fragment
+299,spoilage,insects
+300,salmonella,salmonella
+301,walnut,walnut
+302,milk and products thereof,milk and products thereof
+303,cyclospora,listeria monocytogenes
+304,other not classified chemical hazards,coliforms
+305,salmonella,salmonella
+306,listeria monocytogenes,listeria monocytogenes
+307,soybeans and products thereof,soybeans and products thereof
+308,metal fragment,metal fragment
+309,sesame seeds and products thereof,sesame seeds and products thereof
+310,listeria monocytogenes,listeria monocytogenes
+311,plastic fragment,rubber fragments
+312,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+313,salmonella,salmonella
+314,milk and products thereof,soybeans and products thereof
+315,salmonella,salmonella
+316,milk and products thereof,milk and products thereof
+317,milk and products thereof,milk and products thereof
+318,salmonella,salmonella
+319,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+320,hazelnut,sulphur dioxide and sulphites
+321,eggs and products thereof,eggs and products thereof
+322,soybeans and products thereof,cereals containing gluten and products thereof
+323,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+324,clostridium botulinum,clostridium botulinum
+325,other,incorrect use by dates
+326,peanuts and products thereof,peanuts and products thereof
+327,cereals containing gluten and products thereof,soybeans and products thereof
+328,milk and products thereof,milk and products thereof
+329,listeria monocytogenes,listeria monocytogenes
+330,listeria monocytogenes,listeria monocytogenes
+331,listeria monocytogenes,listeria monocytogenes
+332,milk and products thereof,milk and products thereof
+333,listeria monocytogenes,listeria monocytogenes
+334,listeria monocytogenes,listeria monocytogenes
+335,listeria monocytogenes,listeria monocytogenes
+336,listeria monocytogenes,listeria monocytogenes
+337,cashew,almond
+338,listeria monocytogenes,listeria monocytogenes
+339,listeria monocytogenes,listeria monocytogenes
+340,listeria monocytogenes,listeria monocytogenes
+341,foreign bodies,foreign bodies
+342,listeria monocytogenes,listeria monocytogenes
+343,listeria monocytogenes,listeria monocytogenes
+344,listeria monocytogenes,listeria monocytogenes
+345,milk and products thereof,milk and products thereof
+346,milk and products thereof,milk and products thereof
+347,inspection issues,eggs and products thereof
+348,listeria monocytogenes,listeria monocytogenes
+349,listeria monocytogenes,listeria monocytogenes
+350,listeria monocytogenes,listeria monocytogenes
+351,listeria monocytogenes,listeria monocytogenes
+352,inspection issues,misdescription
+353,escherichia coli,escherichia coli
+354,listeria monocytogenes,listeria monocytogenes
+355,listeria monocytogenes,listeria monocytogenes
+356,listeria monocytogenes,listeria monocytogenes
+357,listeria monocytogenes,listeria monocytogenes
+358,milk and products thereof,milk and products thereof
+359,incorrect use by dates,incorrect use by dates
+360,eggs and products thereof,eggs and products thereof
+361,listeria monocytogenes,listeria monocytogenes
+362,plastic fragment,cashew
+363,glass fragment,crustaceans and products thereof
+364,milk and products thereof,milk and products thereof
+365,other,other
+366,eggs and products thereof,soybeans and products thereof
+367,salmonella,salmonella
+368,rubber fragments,rubber fragments
+369,plastic fragment,plastic fragment
+370,peanuts and products thereof,peanuts and products thereof
+371,heavy metals,heavy metals
+372,eggs and products thereof,eggs and products thereof
+373,milk and products thereof,milk and products thereof
+374,metal fragment,metal fragment
+375,almond,peanuts and products thereof
+376,plastic fragment,pieces of wood
+377,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+378,peanuts and products thereof,peanuts and products thereof
+379,listeria monocytogenes,listeria monocytogenes
+380,plastic fragment,plastic fragment
+381,bulging packaging,damaged packaging
+382,peanuts and products thereof,peanuts and products thereof
+383,walnut,walnut
+384,plastic fragment,foreign bodies
+385,peanuts and products thereof,peanuts and products thereof
+386,escherichia coli,escherichia coli
+387,listeria monocytogenes,listeria monocytogenes
+388,misdescription,misdescription
+389,eggs and products thereof,eggs and products thereof
+390,cereals containing gluten and products thereof,fish and products thereof
+391,processing,processing
+392,listeria monocytogenes,listeria monocytogenes
+393,soybeans and products thereof,soybeans and products thereof
+394,listeria monocytogenes,listeria monocytogenes
+395,listeria monocytogenes,listeria monocytogenes
+396,listeria monocytogenes,listeria monocytogenes
+397,listeria monocytogenes,listeria monocytogenes
+398,processing,processing
+399,plastic fragment,plastic fragment
+400,soybeans and products thereof,milk and products thereof
+401,salmonella,salmonella
+402,milk and products thereof,milk and products thereof
+403,salmonella,salmonella
+404,clostridium botulinum,clostridium botulinum
+405,metal fragment,plastic fragment
+406,eggs and products thereof,incorrect labeling
+407,plastic fragment,plastic fragment
+408,salmonella,salmonella
+409,incorrect use by dates,other not classified
+410,salmonella,salmonella
+411,incorrect use by dates,incorrect use by dates
+412,soybeans and products thereof,soybeans and products thereof
+413,plastic fragment,plastic fragment
+414,soybeans and products thereof,milk and products thereof
+415,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+416,plastic fragment,processing
+417,glass fragment,plastic fragment
+418,peanuts and products thereof,milk and products thereof
+419,plastic fragment,plastic fragment
+420,e 425 - konjac unauthorised,e 425 - konjac unauthorised
+421,mustard and products thereof,mustard and products thereof
+422,milk and products thereof,milk and products thereof
+423,listeria monocytogenes,listeria monocytogenes
+424,soybeans and products thereof,milk and products thereof
+425,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+426,eggs and products thereof,eggs and products thereof
+427,listeria monocytogenes,listeria monocytogenes
+428,escherichia coli,escherichia coli
+429,milk and products thereof,milk and products thereof
+430,salmonella,salmonella
+431,incorrect use by dates,abnormal smell
+432,metal fragment,metal fragment
+433,incorrect use by dates,incorrect labeling
+434,walnut,walnut
+435,metal fragment,metal fragment
+436,milk and products thereof,milk and products thereof
+437,listeria monocytogenes,listeria monocytogenes
+438,spoilage,moulds
+439,incorrect use by dates,incorrect use by dates
+440,plastic fragment,plastic fragment
+441,milk and products thereof,milk and products thereof
+442,almond,almond
+443,metal fragment,metal fragment
+444,escherichia coli,escherichia coli
+445,milk and products thereof,milk and products thereof
+446,escherichia coli,escherichia coli
+447,eggs and products thereof,eggs and products thereof
+448,patulin,enteroviruses
+449,escherichia coli,escherichia coli
+450,milk and products thereof,milk and products thereof
+451,allergens,milk and products thereof
+452,milk and products thereof,milk and products thereof
+453,milk and products thereof,milk and products thereof
+454,cashew,almond
+455,listeria monocytogenes,listeria monocytogenes
+456,insufficient labelling/documentation,nuts
+457,milk and products thereof,milk and products thereof
+458,incorrect use by dates,clostridium botulinum
+459,spoilage,spoilage
+460,"antibiotics, vet drugs","antibiotics, vet drugs"
+461,soybeans and products thereof,soybeans and products thereof
+462,salmonella,escherichia coli
+463,incorrect use by dates,glass fragment
+464,listeria monocytogenes,listeria monocytogenes
+465,listeria monocytogenes,listeria monocytogenes
+466,other,Aflatoxin
+467,milk and products thereof,milk and products thereof
+468,milk and products thereof,milk and products thereof
+469,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+470,escherichia coli,escherichia coli
+471,norovirus,milk and products thereof
+472,milk and products thereof,milk and products thereof
+473,milk and products thereof,milk and products thereof
+474,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+475,plastic fragment,plastic fragment
+476,peanuts and products thereof,peanuts and products thereof
+477,insufficient labelling/documentation,soybeans and products thereof
+478,peanuts and products thereof,peanuts and products thereof
+479,escherichia coli,escherichia coli
+480,eggs and products thereof,eggs and products thereof
+481,processing,clostridium botulinum
+482,escherichia coli,escherichia coli
+483,nuts,brazil nut
+484,salmonella,salmonella
+485,listeria monocytogenes,listeria monocytogenes
+486,almond,milk and products thereof
+487,sulphur dioxide,other
+488,other,specified risk material (srm)
+489,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+490,metal fragment,plastic fragment
+491,eggs and products thereof,eggs and products thereof
+492,bulging packaging,glass fragment
+493,salmonella,salmonella
+494,eggs and products thereof,eggs and products thereof
+495,listeria monocytogenes,listeria monocytogenes
+496,listeria monocytogenes,listeria monocytogenes
+497,listeria monocytogenes,listeria monocytogenes
+498,glass fragment,bulging packaging
+499,listeria monocytogenes,listeria monocytogenes
+500,milk and products thereof,milk and products thereof
+501,salmonella,salmonella
+502,listeria monocytogenes,listeria monocytogenes
+503,other not classified chemical hazards,other not classified chemical hazards
+504,cashew,pecan nut
+505,metal fragment,metal fragment
+506,eggs and products thereof,eggs and products thereof
+507,walnut,pecan nut
+508,eggs and products thereof,eggs and products thereof
+509,salmonella,salmonella
+510,eggs and products thereof,eggs and products thereof
+511,cashew,cashew
+512,soybeans and products thereof,incorrect labeling
+513,other,other
+514,misdescription,cereals containing gluten and products thereof
+515,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+516,salmonella,salmonella
+517,listeria monocytogenes,listeria monocytogenes
+518,peanuts and products thereof,peanuts and products thereof
+519,eggs and products thereof,incorrect labeling
+520,improper conditions,improper conditions
+521,salmonella,salmonella
+522,milk and products thereof,milk and products thereof
+523,listeria monocytogenes,listeria monocytogenes
+524,other,high content of vitamins
+525,milk and products thereof,milk and products thereof
+526,salmonella,salmonella
+527,plastic fragment,plastic fragment
+528,salmonella,salmonella
+529,listeria monocytogenes,listeria monocytogenes
+530,listeria monocytogenes,listeria monocytogenes
+531,salmonella,salmonella
+532,listeria monocytogenes,listeria monocytogenes
+533,escherichia coli,escherichia coli
+534,rubber fragments,rubber fragments
+535,eggs and products thereof,eggs and products thereof
+536,eggs and products thereof,eggs and products thereof
+537,pistachio nut,pistachio nut
+538,milk and products thereof,milk and products thereof
+539,bulging packaging,improper packaging
+540,eggs and products thereof,eggs and products thereof
+541,escherichia coli,escherichia coli
+542,milk and products thereof,milk and products thereof
+543,peanuts and products thereof,peanuts and products thereof
+544,listeria monocytogenes,listeria monocytogenes
+545,salmonella,salmonella
+546,metal fragment,metal fragment
+547,salmonella,salmonella
+548,other,misbranding
+549,cyclospora,cyclospora
+550,soybeans and products thereof,glass fragment
+551,other,insects
+552,milk and products thereof,milk and products thereof
+553,high content of copper,high content of copper
+554,mustard and products thereof,mustard and products thereof
+555,inspection issues,inspection issues
+556,cereals containing gluten and products thereof,soybeans and products thereof
+557,salmonella,salmonella
+558,salmonella,salmonella
+559,salmonella,salmonella
+560,soybeans and products thereof,soybeans and products thereof
+561,insufficient labelling/documentation,salmonella
+562,bad smell / off odor,metal fragment
+563,listeria monocytogenes,listeria monocytogenes
+564,metal fragment,glass fragment
+565,peanuts and products thereof,peanuts and products thereof
+566,salmonella,salmonella
+567,milk and products thereof,fish and products thereof
+568,plastic fragment,plastic fragment
+569,escherichia coli,escherichia coli
+570,cereals containing gluten and products thereof,eggs and products thereof
+571,salmonella,salmonella
+572,other,poor or insufficient controls
+573,inspection issues,inspection issues
+574,listeria monocytogenes,listeria monocytogenes
+575,salmonella,salmonella
+576,metal fragment,metal fragment
+577,listeria monocytogenes,listeria monocytogenes
+578,milk and products thereof,milk and products thereof
+579,milk and products thereof,milk and products thereof
+580,escherichia coli,escherichia coli
+581,product category/characteristics,misbranding
+582,listeria monocytogenes,listeria monocytogenes
+583,plastic fragment,plastic fragment
+584,mustard and products thereof,mustard and products thereof
+585,milk and products thereof,milk and products thereof
+586,salmonella,salmonella
+587,heavy metals,heavy metals
+588,salmonella,salmonella
+589,plastic fragment,metal fragment
+590,milk and products thereof,milk and products thereof
+591,eggs and products thereof,eggs and products thereof
+592,salmonella,salmonella
+593,spoilage,salmonella
+594,listeria monocytogenes,listeria monocytogenes
+595,salmonella,salmonella
+596,milk and products thereof,milk and products thereof
+597,eggs and products thereof,milk and products thereof
+598,plastic fragment,plastic fragment
+599,spoilage,processing
+600,peanuts and products thereof,peanuts and products thereof
+601,e 425 - konjac unauthorised,e 425 - konjac unauthorised
+602,salmonella,salmonella
+603,spoilage,yeasts
+604,listeria monocytogenes,listeria monocytogenes
+605,spoilage,glass fragment
+606,packaging defect,bulging packaging
+607,spoilage,other not classified hazards for foreign bodies
+608,inspection issues,inspection issues
+609,salmonella,salmonella
+610,salmonella,salmonella
+611,walnut,milk and products thereof
+612,inspection issues,inspection issues
+613,escherichia coli,escherichia coli
+614,insufficient labelling/documentation,milk and products thereof
+615,peanuts and products thereof,peanuts and products thereof
+616,inspection issues,processing
+617,peanuts and products thereof,peanuts and products thereof
+618,milk and products thereof,milk and products thereof
+619,peanuts and products thereof,glass fragment
+620,cashew,salmonella
+621,pahs,pahs
+622,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+623,chemical compound (high content),chemical compound (high content)
+624,plastic fragment,plastic fragment
+625,rubber fragments,plastic fragment
+626,milk and products thereof,milk and products thereof
+627,inspection issues,inspection issues
+628,milk and products thereof,milk and products thereof
+629,peanuts and products thereof,peanuts and products thereof
+630,milk and products thereof,milk and products thereof
+631,bone fragment,metal fragment
+632,salmonella,salmonella
+633,salmonella,salmonella
+634,milk and products thereof,milk and products thereof
+635,milk and products thereof,milk and products thereof
+636,undeclared constituent,non compliance with HACCP
+637,salmonella,salmonella
+638,escherichia coli,escherichia coli
+639,salmonella,salmonella
+640,milk and products thereof,milk and products thereof
+641,plastic fragment,plastic fragment
+642,plastic fragment,plastic fragment
+643,salmonella,salmonella
+644,product category/characteristics,cereals containing gluten and products thereof
+645,other,compositional deviation
+646,metal fragment,bone fragment
+647,metal fragment,metal fragment
+648,listeria monocytogenes,listeria monocytogenes
+649,metal fragment,metal fragment
+650,milk and products thereof,milk and products thereof
+651,salmonella,salmonella
+652,salmonella,salmonella
+653,rubber fragments,rubber fragments
+654,escherichia coli,escherichia coli
+655,plastic fragment,plastic fragment
+656,eggs and products thereof,soybeans and products thereof
+657,milk and products thereof,nuts
+658,milk and products thereof,milk and products thereof
+659,peanuts and products thereof,peanuts and products thereof
+660,peanuts and products thereof,peanuts and products thereof
+661,almond,almond
+662,eggs and products thereof,cereals containing gluten and products thereof
+663,milk and products thereof,eggs and products thereof
+664,eggs and products thereof,eggs and products thereof
+665,milk and products thereof,eggs and products thereof
+666,other,other not classified chemical hazards
+667,salmonella,salmonella
+668,microbiological contamination,incorrect use by dates
+669,cashew,cashew
+670,sesame seeds and products thereof,sesame seeds and products thereof
+671,listeria monocytogenes,listeria monocytogenes
+672,spoilage,vibrio spp
+673,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+674,spoilage,paralytic shellfish poisoning (psp) toxins
+675,escherichia coli,escherichia coli
+676,rubber fragments,plastic fragment
+677,eggs and products thereof,milk and products thereof
+678,salmonella,salmonella
+679,milk and products thereof,milk and products thereof
+680,eggs and products thereof,eggs and products thereof
+681,milk and products thereof,milk and products thereof
+682,milk and products thereof,milk and products thereof
+683,listeria monocytogenes,listeria monocytogenes
+684,heavy metals,heavy metals
+685,undeclared constituent,processing
+686,plastic fragment,plastic fragment
+687,milk and products thereof,milk and products thereof
+688,moulds,moulds
+689,salmonella,salmonella
+690,listeria monocytogenes,listeria monocytogenes
+691,listeria monocytogenes,listeria monocytogenes
+692,escherichia coli,escherichia coli
+693,listeria monocytogenes,listeria monocytogenes
+694,escherichia coli,salmonella
+695,listeria monocytogenes,listeria monocytogenes
+696,metal fragment,plastic fragment
+697,clostridium botulinum,clostridium botulinum
+698,escherichia coli,escherichia coli
+699,escherichia coli,listeria monocytogenes
+700,other,incorrect labeling
+701,plastic fragment,plastic fragment
+702,escherichia coli,escherichia coli
+703,allergens,milk and products thereof
+704,salmonella,salmonella
+705,peanuts and products thereof,peanuts and products thereof
+706,cronobacter spp,cronobacter spp
+707,metal fragment,metal fragment
+708,escherichia coli,escherichia coli
+709,other,salmonella
+710,spoilage,spoilage
+711,other,incorrect labeling
+712,salmonella,listeria monocytogenes
+713,metal fragment,metal fragment
+714,escherichia coli,escherichia coli
+715,listeria monocytogenes,listeria monocytogenes
+716,inspection issues,inspection issues
+717,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+718,undeclared constituent,cereals containing gluten and products thereof
+719,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+720,salmonella,salmonella
+721,listeria monocytogenes,listeria monocytogenes
+722,spoilage,escherichia coli
+723,pecan nut,peanuts and products thereof
+724,listeria monocytogenes,listeria monocytogenes
+725,soybeans and products thereof,milk and products thereof
+726,listeria monocytogenes,listeria monocytogenes
+727,listeria monocytogenes,listeria monocytogenes
+728,listeria monocytogenes,listeria monocytogenes
+729,listeria monocytogenes,listeria monocytogenes
+730,peanuts and products thereof,peanuts and products thereof
+731,milk and products thereof,almond
+732,plastic fragment,plastic fragment
+733,spoilage,chemical compound (unauthorised)
+734,bulging packaging,improper conditions
+735,peanuts and products thereof,peanuts and products thereof
+736,microbiological contamination,microbiological contamination
+737,other not classified chemical hazards,other not classified chemical hazards
+738,soybeans and products thereof,soybeans and products thereof
+739,mustard and products thereof,mustard and products thereof
+740,allergens,incorrect labeling
+741,milk and products thereof,milk and products thereof
+742,peanuts and products thereof,peanuts and products thereof
+743,listeria monocytogenes,listeria monocytogenes
+744,glass fragment,stones
+745,eggs and products thereof,eggs and products thereof
+746,processing,other not classified biological hazards
+747,peanuts and products thereof,other
+748,hazelnut,hazelnut
+749,salmonella,salmonella
+750,milk and products thereof,milk and products thereof
+751,spoilage,toxin
+752,soybeans and products thereof,nuts
+753,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+754,milk and products thereof,milk and products thereof
+755,spoilage,milk and products thereof
+756,soybeans and products thereof,soybeans and products thereof
+757,peanuts and products thereof,peanuts and products thereof
+758,peanuts and products thereof,peanuts and products thereof
+759,stones,stones
+760,peanuts and products thereof,peanuts and products thereof
+761,escherichia coli,escherichia coli
+762,listeria monocytogenes,listeria monocytogenes
+763,salmonella,salmonella
+764,packaging defect,packaging defect
+765,milk and products thereof,milk and products thereof
+766,metal fragment,metal fragment
+767,escherichia coli,escherichia coli
+768,sesame seeds and products thereof,sesame seeds and products thereof
+769,non compliance with HACCP,unauthorised placing on the market
+770,milk and products thereof,milk and products thereof
+771,milk and products thereof,milk and products thereof
+772,allergens,eggs and products thereof
+773,escherichia coli,escherichia coli
+774,escherichia coli,escherichia coli
+775,peanuts and products thereof,milk and products thereof
+776,listeria monocytogenes,listeria monocytogenes
+777,celery and products thereof,celery and products thereof
+778,listeria monocytogenes,listeria monocytogenes
+779,walnut,almond
+780,eggs and products thereof,eggs and products thereof
+781,inspection issues,inspection issues
+782,salmonella,salmonella
+783,foreign bodies,novel food
+784,listeria monocytogenes,listeria monocytogenes
+785,listeria monocytogenes,listeria monocytogenes
+786,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+787,other not classified,other
+788,misbranding,milk and products thereof
+789,milk and products thereof,milk and products thereof
+790,soybeans and products thereof,soybeans and products thereof
+791,soybeans and products thereof,soybeans and products thereof
+792,peanuts and products thereof,peanuts and products thereof
+793,soybeans and products thereof,soybeans and products thereof
+794,cashew,molluscs and products thereof
+795,listeria monocytogenes,listeria monocytogenes
+796,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+797,metal fragment,glass fragment
+798,plastic fragment,glass fragment
+799,listeria monocytogenes,listeria monocytogenes
+800,allergens,cereals containing gluten and products thereof
+801,spoilage,spoilage
+802,plastic fragment,plastic fragment
+803,mustard and products thereof,mustard and products thereof
+804,undeclared additive,undeclared additive
+805,salmonella,salmonella
+806,eggs and products thereof,eggs and products thereof
+807,other not classified,other not classified
+808,metal fragment,metal fragment
+809,salmonella,salmonella
+810,moulds,moulds
+811,cereals containing gluten and products thereof,undeclared constituent
+812,listeria monocytogenes,listeria monocytogenes
+813,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+814,fish and products thereof,fish and products thereof
+815,escherichia coli,escherichia coli
+816,packaging defect,alcohol content
+817,plastic fragment,metal fragment
+818,high content of vitamins,other
+819,spoilage,moulds
+820,sulphur dioxide and sulphites,sulphates/sulphites
+821,almond,almond
+822,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+823,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+824,listeria monocytogenes,listeria monocytogenes
+825,milk and products thereof,milk and products thereof
+826,sulphur dioxide,sulphur dioxide
+827,heavy metals,heavy metals
+828,allergens,inspection issues
+829,peanuts and products thereof,peanuts and products thereof
+830,milk and products thereof,milk and products thereof
+831,eggs and products thereof,eggs and products thereof
+832,plastic fragment,rubber fragments
+833,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+834,salmonella,salmonella
+835,soybeans and products thereof,soybeans and products thereof
+836,eggs and products thereof,eggs and products thereof
+837,eggs and products thereof,eggs and products thereof
+838,metal fragment,glass fragment
+839,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+840,cereals containing gluten and products thereof,allergens
+841,other,taste disturbance
+842,escherichia coli,escherichia coli
+843,pistachio nut,pistachio nut
+844,spoilage,packaging defect
+845,peanuts and products thereof,peanuts and products thereof
+846,fish and products thereof,fish and products thereof
+847,other,heavy metals
+848,almond,almond
+849,patulin,unauthorised substance ethylene oxide
+850,milk and products thereof,milk and products thereof
+851,milk and products thereof,milk and products thereof
+852,salmonella,salmonella
+853,spoilage,other
+854,peanuts and products thereof,peanuts and products thereof
+855,milk and products thereof,milk and products thereof
+856,milk and products thereof,milk and products thereof
+857,high content of cyanide,high content of cyanide
+858,other,other
+859,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+860,salmonella,salmonella
+861,hazelnut,hazelnut
+862,clostridium botulinum,clostridium botulinum
+863,plastic fragment,foreign bodies
+864,soybeans and products thereof,milk and products thereof
+865,salmonella,salmonella
+866,enteroviruses,enteroviruses
+867,milk and products thereof,fish and products thereof
+868,cashew,almond
+869,cashew,cashew
+870,spoilage,moulds
+871,salmonella,salmonella
+872,incorrect use by dates,other
+873,milk and products thereof,milk and products thereof
+874,milk and products thereof,hazelnut
+875,cashew,allergens
+876,sesame seeds and products thereof,sesame seeds and products thereof
+877,milk and products thereof,milk and products thereof
+878,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+879,peanuts and products thereof,eggs and products thereof
+880,milk and products thereof,milk and products thereof
+881,milk and products thereof,milk and products thereof
+882,listeria monocytogenes,listeria monocytogenes
+883,salmonella,salmonella
+884,sesame seeds and products thereof,cashew
+885,salmonella,salmonella
+886,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+887,salmonella,salmonella
+888,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+889,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+890,crustaceans and products thereof,crustaceans and products thereof
+891,sesame seeds and products thereof,sesame seeds and products thereof
+892,toxin,toxin
+893,cereals containing gluten and products thereof,product category/characteristics
+894,other not classified,other not classified
+895,listeria monocytogenes,listeria monocytogenes
+896,listeria monocytogenes,listeria monocytogenes
+897,listeria monocytogenes,listeria monocytogenes
+898,other,Aflatoxin
+899,milk and products thereof,milk and products thereof
+900,sulphur dioxide and sulphites,milk and products thereof
+901,escherichia coli,staphylococcus
+902,other,heavy metals
+903,peanuts and products thereof,peanuts and products thereof
+904,salmonella,listeria monocytogenes
+905,listeria monocytogenes,listeria monocytogenes
+906,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+907,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+908,walnut,walnut
+909,sulphur dioxide,sulphur dioxide
+910,plastic fragment,plastic fragment
+911,listeria monocytogenes,pathogenic bacteria
+912,milk and products thereof,milk and products thereof
+913,listeria monocytogenes,listeria monocytogenes
+914,metal fragment,metal fragment
+915,other,too high content of tetrahydrocannabinol (THC)
+916,patulin,patulin
+917,patulin,patulin
+918,plastic fragment,plastic fragment
+919,listeria monocytogenes,listeria monocytogenes
+920,spoilage,clostridium botulinum
+921,plastic fragment,plastic fragment
+922,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+923,listeria monocytogenes,listeria monocytogenes
+924,salmonella,salmonella
+925,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+926,salmonella,salmonella
+927,metal fragment,metal fragment
+928,other,pseudomonas spp.
+929,sesame seeds and products thereof,sesame seeds and products thereof
+930,sulphur dioxide and sulphites,sulphur dioxide and sulphites
+931,unauthorised substance ethylene oxide,unauthorised substance ethylene oxide
+932,soybeans and products thereof,soybeans and products thereof
+933,milk and products thereof,milk and products thereof
+934,milk and products thereof,milk and products thereof
+935,sulphur dioxide,sulphur dioxide
+936,metal fragment,metal fragment
+937,sulphur dioxide and sulphites,mustard and products thereof
+938,milk and products thereof,milk and products thereof
+939,listeria monocytogenes,listeria monocytogenes
+940,toxin,toxin
+941,eggs and products thereof,eggs and products thereof
+942,cashew,almond
+943,insects,insects
+944,spoilage,bad smell / off odor
+945,salmonella,soybeans and products thereof
+946,inspection issues,inspection issues
+947,salmonella,salmonella
+948,misbranding,mislabelled
+949,listeria monocytogenes,listeria monocytogenes
+950,milk and products thereof,milk and products thereof
+951,plastic fragment,plastic fragment
+952,other,poor hygienic state
+953,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+954,eggs and products thereof,eggs and products thereof
+955,listeria monocytogenes,listeria monocytogenes
+956,listeria monocytogenes,listeria monocytogenes
+957,listeria monocytogenes,listeria monocytogenes
+958,sulphates/sulphites,sulphates/sulphites
+959,listeria monocytogenes,listeria monocytogenes
+960,norovirus,norovirus
+961,other not classified,other not classified
+962,milk and products thereof,milk and products thereof
+963,other,other
+964,norovirus,norovirus
+965,salmonella,salmonella
+966,salmonella,salmonella
+967,peanuts and products thereof,peanuts and products thereof
+968,salmonella,salmonella
+969,milk and products thereof,milk and products thereof
+970,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+971,virus,virus
+972,foreign bodies,metal fragment
+973,spoilage,other
+974,soybeans and products thereof,cashew
+975,salmonella,salmonella
+976,salmonella,salmonella
+977,salmonella,salmonella
+978,almond,almond
+979,peanuts and products thereof,peanuts and products thereof
+980,salmonella,salmonella
+981,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+982,norovirus,norovirus
+983,salmonella,salmonella
+984,norovirus,norovirus
+985,milk and products thereof,milk and products thereof
+986,soybeans and products thereof,soybeans and products thereof
+987,inspection issues,inspection issues
+988,other,unauthorised substance sildenafil
+989,cashew,nuts
+990,cereals containing gluten and products thereof,cereals containing gluten and products thereof
+991,milk and products thereof,milk and products thereof
+992,allergens,undeclared constituent
+993,salmonella,salmonella
+994,listeria monocytogenes,listeria monocytogenes
+995,other,alkaloids
+996,milk and products thereof,milk and products thereof

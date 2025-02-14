@@ -1,0 +1,998 @@
+index,true_label,predicted_label
+0,"meat, egg and dairy products","meat, egg and dairy products"
+1,fruits and vegetables,"meat, egg and dairy products"
+2,"meat, egg and dairy products",prepared dishes and snacks
+3,"meat, egg and dairy products",seafood
+4,ices and desserts,ices and desserts
+5,non-alcoholic beverages,non-alcoholic beverages
+6,"meat, egg and dairy products","meat, egg and dairy products"
+7,"meat, egg and dairy products","meat, egg and dairy products"
+8,"soups, broths, sauces and condiments",prepared dishes and snacks
+9,seafood,seafood
+10,"meat, egg and dairy products","meat, egg and dairy products"
+11,prepared dishes and snacks,prepared dishes and snacks
+12,ices and desserts,ices and desserts
+13,ices and desserts,"meat, egg and dairy products"
+14,fats and oils,fats and oils
+15,cereals and bakery products,cereals and bakery products
+16,prepared dishes and snacks,prepared dishes and snacks
+17,alcoholic beverages,alcoholic beverages
+18,seafood,"meat, egg and dairy products"
+19,cereals and bakery products,cereals and bakery products
+20,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+21,prepared dishes and snacks,"soups, broths, sauces and condiments"
+22,"meat, egg and dairy products","meat, egg and dairy products"
+23,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+24,"soups, broths, sauces and condiments",cereals and bakery products
+25,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+26,cereals and bakery products,cereals and bakery products
+27,"meat, egg and dairy products","meat, egg and dairy products"
+28,"cocoa and cocoa preparations, coffee and tea","meat, egg and dairy products"
+29,alcoholic beverages,non-alcoholic beverages
+30,ices and desserts,ices and desserts
+31,prepared dishes and snacks,prepared dishes and snacks
+32,ices and desserts,ices and desserts
+33,"meat, egg and dairy products","meat, egg and dairy products"
+34,"meat, egg and dairy products","meat, egg and dairy products"
+35,"dietetic foods, food supplements, fortified foods",cereals and bakery products
+36,confectionery,confectionery
+37,cereals and bakery products,cereals and bakery products
+38,cereals and bakery products,cereals and bakery products
+39,herbs and spices,cereals and bakery products
+40,cereals and bakery products,cereals and bakery products
+41,"meat, egg and dairy products","meat, egg and dairy products"
+42,cereals and bakery products,cereals and bakery products
+43,prepared dishes and snacks,"meat, egg and dairy products"
+44,fruits and vegetables,cereals and bakery products
+45,seafood,seafood
+46,"meat, egg and dairy products","meat, egg and dairy products"
+47,ices and desserts,ices and desserts
+48,fruits and vegetables,fruits and vegetables
+49,"meat, egg and dairy products","meat, egg and dairy products"
+50,"meat, egg and dairy products","meat, egg and dairy products"
+51,"meat, egg and dairy products","meat, egg and dairy products"
+52,prepared dishes and snacks,cereals and bakery products
+53,non-alcoholic beverages,non-alcoholic beverages
+54,"meat, egg and dairy products","meat, egg and dairy products"
+55,cereals and bakery products,cereals and bakery products
+56,non-alcoholic beverages,non-alcoholic beverages
+57,"meat, egg and dairy products","meat, egg and dairy products"
+58,alcoholic beverages,alcoholic beverages
+59,"meat, egg and dairy products","meat, egg and dairy products"
+60,"meat, egg and dairy products","meat, egg and dairy products"
+61,"meat, egg and dairy products","meat, egg and dairy products"
+62,prepared dishes and snacks,prepared dishes and snacks
+63,"nuts, nut products and seeds","nuts, nut products and seeds"
+64,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+65,ices and desserts,ices and desserts
+66,ices and desserts,ices and desserts
+67,ices and desserts,ices and desserts
+68,ices and desserts,ices and desserts
+69,ices and desserts,ices and desserts
+70,ices and desserts,ices and desserts
+71,ices and desserts,ices and desserts
+72,prepared dishes and snacks,prepared dishes and snacks
+73,ices and desserts,ices and desserts
+74,ices and desserts,ices and desserts
+75,cereals and bakery products,cereals and bakery products
+76,confectionery,confectionery
+77,fruits and vegetables,"meat, egg and dairy products"
+78,"meat, egg and dairy products","meat, egg and dairy products"
+79,ices and desserts,ices and desserts
+80,ices and desserts,ices and desserts
+81,fruits and vegetables,fruits and vegetables
+82,ices and desserts,ices and desserts
+83,"meat, egg and dairy products","meat, egg and dairy products"
+84,"nuts, nut products and seeds","nuts, nut products and seeds"
+85,confectionery,confectionery
+86,prepared dishes and snacks,prepared dishes and snacks
+87,herbs and spices,herbs and spices
+88,fruits and vegetables,fruits and vegetables
+89,"meat, egg and dairy products",prepared dishes and snacks
+90,prepared dishes and snacks,"meat, egg and dairy products"
+91,non-alcoholic beverages,non-alcoholic beverages
+92,ices and desserts,ices and desserts
+93,"meat, egg and dairy products","meat, egg and dairy products"
+94,cereals and bakery products,herbs and spices
+95,cereals and bakery products,cereals and bakery products
+96,prepared dishes and snacks,prepared dishes and snacks
+97,seafood,seafood
+98,prepared dishes and snacks,prepared dishes and snacks
+99,"nuts, nut products and seeds","nuts, nut products and seeds"
+100,fats and oils,fats and oils
+101,"meat, egg and dairy products","meat, egg and dairy products"
+102,ices and desserts,ices and desserts
+103,fruits and vegetables,fruits and vegetables
+104,alcoholic beverages,ices and desserts
+105,"meat, egg and dairy products","meat, egg and dairy products"
+106,cereals and bakery products,cereals and bakery products
+107,fruits and vegetables,fruits and vegetables
+108,prepared dishes and snacks,fruits and vegetables
+109,prepared dishes and snacks,prepared dishes and snacks
+110,prepared dishes and snacks,prepared dishes and snacks
+111,ices and desserts,ices and desserts
+112,seafood,seafood
+113,"meat, egg and dairy products","meat, egg and dairy products"
+114,"meat, egg and dairy products","meat, egg and dairy products"
+115,"meat, egg and dairy products","meat, egg and dairy products"
+116,"meat, egg and dairy products",herbs and spices
+117,prepared dishes and snacks,prepared dishes and snacks
+118,"meat, egg and dairy products","meat, egg and dairy products"
+119,cereals and bakery products,cereals and bakery products
+120,"meat, egg and dairy products","meat, egg and dairy products"
+121,non-alcoholic beverages,non-alcoholic beverages
+122,confectionery,"cocoa and cocoa preparations, coffee and tea"
+123,"meat, egg and dairy products","meat, egg and dairy products"
+124,"meat, egg and dairy products","meat, egg and dairy products"
+125,fruits and vegetables,fruits and vegetables
+126,"meat, egg and dairy products","meat, egg and dairy products"
+127,"meat, egg and dairy products","meat, egg and dairy products"
+128,"meat, egg and dairy products","meat, egg and dairy products"
+129,prepared dishes and snacks,prepared dishes and snacks
+130,"nuts, nut products and seeds","nuts, nut products and seeds"
+131,"meat, egg and dairy products","meat, egg and dairy products"
+132,fruits and vegetables,fruits and vegetables
+133,prepared dishes and snacks,prepared dishes and snacks
+134,"nuts, nut products and seeds","nuts, nut products and seeds"
+135,"nuts, nut products and seeds","nuts, nut products and seeds"
+136,"meat, egg and dairy products","meat, egg and dairy products"
+137,ices and desserts,ices and desserts
+138,confectionery,"cocoa and cocoa preparations, coffee and tea"
+139,"meat, egg and dairy products","meat, egg and dairy products"
+140,ices and desserts,ices and desserts
+141,fruits and vegetables,fruits and vegetables
+142,"meat, egg and dairy products",fruits and vegetables
+143,"meat, egg and dairy products","meat, egg and dairy products"
+144,prepared dishes and snacks,prepared dishes and snacks
+145,"meat, egg and dairy products","meat, egg and dairy products"
+146,cereals and bakery products,cereals and bakery products
+147,"meat, egg and dairy products","meat, egg and dairy products"
+148,cereals and bakery products,cereals and bakery products
+149,"meat, egg and dairy products","meat, egg and dairy products"
+150,seafood,seafood
+151,ices and desserts,ices and desserts
+152,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+153,"meat, egg and dairy products","meat, egg and dairy products"
+154,"nuts, nut products and seeds","nuts, nut products and seeds"
+155,fats and oils,"soups, broths, sauces and condiments"
+156,"nuts, nut products and seeds","nuts, nut products and seeds"
+157,"nuts, nut products and seeds","nuts, nut products and seeds"
+158,"nuts, nut products and seeds","nuts, nut products and seeds"
+159,confectionery,confectionery
+160,"nuts, nut products and seeds","nuts, nut products and seeds"
+161,"nuts, nut products and seeds","nuts, nut products and seeds"
+162,cereals and bakery products,cereals and bakery products
+163,"nuts, nut products and seeds","nuts, nut products and seeds"
+164,"nuts, nut products and seeds","nuts, nut products and seeds"
+165,cereals and bakery products,cereals and bakery products
+166,confectionery,"cocoa and cocoa preparations, coffee and tea"
+167,prepared dishes and snacks,prepared dishes and snacks
+168,seafood,seafood
+169,"nuts, nut products and seeds","nuts, nut products and seeds"
+170,ices and desserts,ices and desserts
+171,"meat, egg and dairy products","meat, egg and dairy products"
+172,fruits and vegetables,fruits and vegetables
+173,"meat, egg and dairy products","meat, egg and dairy products"
+174,cereals and bakery products,cereals and bakery products
+175,fruits and vegetables,fruits and vegetables
+176,"meat, egg and dairy products","meat, egg and dairy products"
+177,"meat, egg and dairy products","meat, egg and dairy products"
+178,alcoholic beverages,alcoholic beverages
+179,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+180,"meat, egg and dairy products","meat, egg and dairy products"
+181,"meat, egg and dairy products","meat, egg and dairy products"
+182,ices and desserts,ices and desserts
+183,confectionery,herbs and spices
+184,prepared dishes and snacks,prepared dishes and snacks
+185,"dietetic foods, food supplements, fortified foods",fruits and vegetables
+186,fruits and vegetables,fruits and vegetables
+187,"meat, egg and dairy products","meat, egg and dairy products"
+188,"meat, egg and dairy products","meat, egg and dairy products"
+189,"meat, egg and dairy products","meat, egg and dairy products"
+190,prepared dishes and snacks,"dietetic foods, food supplements, fortified foods"
+191,cereals and bakery products,cereals and bakery products
+192,"meat, egg and dairy products","meat, egg and dairy products"
+193,prepared dishes and snacks,"meat, egg and dairy products"
+194,"nuts, nut products and seeds","nuts, nut products and seeds"
+195,"nuts, nut products and seeds","nuts, nut products and seeds"
+196,non-alcoholic beverages,non-alcoholic beverages
+197,"meat, egg and dairy products","meat, egg and dairy products"
+198,"meat, egg and dairy products","meat, egg and dairy products"
+199,"meat, egg and dairy products",prepared dishes and snacks
+200,"meat, egg and dairy products","meat, egg and dairy products"
+201,food additives and flavourings,prepared dishes and snacks
+202,"meat, egg and dairy products","meat, egg and dairy products"
+203,cereals and bakery products,cereals and bakery products
+204,"meat, egg and dairy products","meat, egg and dairy products"
+205,seafood,seafood
+206,"nuts, nut products and seeds","nuts, nut products and seeds"
+207,"meat, egg and dairy products","meat, egg and dairy products"
+208,prepared dishes and snacks,"meat, egg and dairy products"
+209,other food product / mixed,prepared dishes and snacks
+210,"meat, egg and dairy products","meat, egg and dairy products"
+211,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+212,"meat, egg and dairy products","meat, egg and dairy products"
+213,"meat, egg and dairy products","meat, egg and dairy products"
+214,"meat, egg and dairy products","meat, egg and dairy products"
+215,"meat, egg and dairy products",prepared dishes and snacks
+216,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+217,"meat, egg and dairy products","meat, egg and dairy products"
+218,fruits and vegetables,fruits and vegetables
+219,"meat, egg and dairy products","meat, egg and dairy products"
+220,prepared dishes and snacks,cereals and bakery products
+221,"meat, egg and dairy products","meat, egg and dairy products"
+222,"meat, egg and dairy products","meat, egg and dairy products"
+223,fruits and vegetables,"meat, egg and dairy products"
+224,alcoholic beverages,alcoholic beverages
+225,"meat, egg and dairy products","meat, egg and dairy products"
+226,ices and desserts,ices and desserts
+227,ices and desserts,ices and desserts
+228,"meat, egg and dairy products","meat, egg and dairy products"
+229,fruits and vegetables,fruits and vegetables
+230,"meat, egg and dairy products","meat, egg and dairy products"
+231,fruits and vegetables,fruits and vegetables
+232,"meat, egg and dairy products","meat, egg and dairy products"
+233,"meat, egg and dairy products","meat, egg and dairy products"
+234,"nuts, nut products and seeds","nuts, nut products and seeds"
+235,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+236,fruits and vegetables,fruits and vegetables
+237,seafood,seafood
+238,"meat, egg and dairy products","meat, egg and dairy products"
+239,"meat, egg and dairy products","meat, egg and dairy products"
+240,alcoholic beverages,alcoholic beverages
+241,alcoholic beverages,alcoholic beverages
+242,"meat, egg and dairy products",prepared dishes and snacks
+243,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+244,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+245,seafood,seafood
+246,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+247,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+248,prepared dishes and snacks,"dietetic foods, food supplements, fortified foods"
+249,alcoholic beverages,alcoholic beverages
+250,herbs and spices,herbs and spices
+251,"meat, egg and dairy products","meat, egg and dairy products"
+252,"meat, egg and dairy products","meat, egg and dairy products"
+253,"meat, egg and dairy products","meat, egg and dairy products"
+254,herbs and spices,herbs and spices
+255,prepared dishes and snacks,"meat, egg and dairy products"
+256,"meat, egg and dairy products","meat, egg and dairy products"
+257,fruits and vegetables,fruits and vegetables
+258,alcoholic beverages,alcoholic beverages
+259,herbs and spices,herbs and spices
+260,fruits and vegetables,fruits and vegetables
+261,"meat, egg and dairy products",prepared dishes and snacks
+262,herbs and spices,herbs and spices
+263,"meat, egg and dairy products","meat, egg and dairy products"
+264,"meat, egg and dairy products","meat, egg and dairy products"
+265,"meat, egg and dairy products","meat, egg and dairy products"
+266,cereals and bakery products,cereals and bakery products
+267,fruits and vegetables,fruits and vegetables
+268,"meat, egg and dairy products","meat, egg and dairy products"
+269,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+270,non-alcoholic beverages,fruits and vegetables
+271,"meat, egg and dairy products","meat, egg and dairy products"
+272,prepared dishes and snacks,"meat, egg and dairy products"
+273,prepared dishes and snacks,other food product / mixed
+274,fats and oils,fats and oils
+275,"meat, egg and dairy products",seafood
+276,"meat, egg and dairy products","meat, egg and dairy products"
+277,non-alcoholic beverages,non-alcoholic beverages
+278,herbs and spices,herbs and spices
+279,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+280,"meat, egg and dairy products","meat, egg and dairy products"
+281,"meat, egg and dairy products","meat, egg and dairy products"
+282,"meat, egg and dairy products","meat, egg and dairy products"
+283,non-alcoholic beverages,non-alcoholic beverages
+284,fruits and vegetables,fruits and vegetables
+285,fruits and vegetables,fruits and vegetables
+286,"meat, egg and dairy products","meat, egg and dairy products"
+287,"meat, egg and dairy products","meat, egg and dairy products"
+288,prepared dishes and snacks,"meat, egg and dairy products"
+289,"meat, egg and dairy products",prepared dishes and snacks
+290,cereals and bakery products,cereals and bakery products
+291,"meat, egg and dairy products","meat, egg and dairy products"
+292,"meat, egg and dairy products","meat, egg and dairy products"
+293,"meat, egg and dairy products","meat, egg and dairy products"
+294,cereals and bakery products,cereals and bakery products
+295,"nuts, nut products and seeds","nuts, nut products and seeds"
+296,fruits and vegetables,non-alcoholic beverages
+297,herbs and spices,herbs and spices
+298,"meat, egg and dairy products","meat, egg and dairy products"
+299,cereals and bakery products,cereals and bakery products
+300,fruits and vegetables,fruits and vegetables
+301,cereals and bakery products,cereals and bakery products
+302,cereals and bakery products,seafood
+303,fruits and vegetables,fruits and vegetables
+304,"meat, egg and dairy products","meat, egg and dairy products"
+305,ices and desserts,cereals and bakery products
+306,"meat, egg and dairy products","meat, egg and dairy products"
+307,seafood,seafood
+308,cereals and bakery products,fruits and vegetables
+309,cereals and bakery products,cereals and bakery products
+310,"meat, egg and dairy products","meat, egg and dairy products"
+311,cereals and bakery products,cereals and bakery products
+312,fruits and vegetables,fruits and vegetables
+313,non-alcoholic beverages,"cocoa and cocoa preparations, coffee and tea"
+314,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+315,"nuts, nut products and seeds","nuts, nut products and seeds"
+316,cereals and bakery products,cereals and bakery products
+317,cereals and bakery products,cereals and bakery products
+318,"nuts, nut products and seeds","nuts, nut products and seeds"
+319,"meat, egg and dairy products","meat, egg and dairy products"
+320,prepared dishes and snacks,fruits and vegetables
+321,fruits and vegetables,prepared dishes and snacks
+322,"meat, egg and dairy products","meat, egg and dairy products"
+323,fruits and vegetables,fruits and vegetables
+324,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+325,"meat, egg and dairy products","meat, egg and dairy products"
+326,cereals and bakery products,cereals and bakery products
+327,"soups, broths, sauces and condiments",prepared dishes and snacks
+328,cereals and bakery products,cereals and bakery products
+329,"nuts, nut products and seeds","nuts, nut products and seeds"
+330,cereals and bakery products,"dietetic foods, food supplements, fortified foods"
+331,"meat, egg and dairy products","meat, egg and dairy products"
+332,prepared dishes and snacks,prepared dishes and snacks
+333,"meat, egg and dairy products","meat, egg and dairy products"
+334,fruits and vegetables,fruits and vegetables
+335,fruits and vegetables,fruits and vegetables
+336,fruits and vegetables,fruits and vegetables
+337,"cocoa and cocoa preparations, coffee and tea",cereals and bakery products
+338,"meat, egg and dairy products","meat, egg and dairy products"
+339,prepared dishes and snacks,prepared dishes and snacks
+340,fruits and vegetables,fruits and vegetables
+341,"meat, egg and dairy products","meat, egg and dairy products"
+342,cereals and bakery products,cereals and bakery products
+343,"nuts, nut products and seeds","nuts, nut products and seeds"
+344,prepared dishes and snacks,prepared dishes and snacks
+345,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+346,prepared dishes and snacks,prepared dishes and snacks
+347,"meat, egg and dairy products","meat, egg and dairy products"
+348,prepared dishes and snacks,"nuts, nut products and seeds"
+349,"nuts, nut products and seeds","nuts, nut products and seeds"
+350,cereals and bakery products,"nuts, nut products and seeds"
+351,cereals and bakery products,cereals and bakery products
+352,"meat, egg and dairy products","meat, egg and dairy products"
+353,"meat, egg and dairy products","meat, egg and dairy products"
+354,prepared dishes and snacks,prepared dishes and snacks
+355,fruits and vegetables,fruits and vegetables
+356,prepared dishes and snacks,prepared dishes and snacks
+357,"nuts, nut products and seeds","nuts, nut products and seeds"
+358,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+359,"meat, egg and dairy products","meat, egg and dairy products"
+360,cereals and bakery products,cereals and bakery products
+361,prepared dishes and snacks,prepared dishes and snacks
+362,"meat, egg and dairy products","meat, egg and dairy products"
+363,prepared dishes and snacks,"meat, egg and dairy products"
+364,cereals and bakery products,cereals and bakery products
+365,seafood,seafood
+366,seafood,seafood
+367,cereals and bakery products,fruits and vegetables
+368,"meat, egg and dairy products","meat, egg and dairy products"
+369,cereals and bakery products,cereals and bakery products
+370,ices and desserts,ices and desserts
+371,herbs and spices,herbs and spices
+372,cereals and bakery products,cereals and bakery products
+373,"meat, egg and dairy products","meat, egg and dairy products"
+374,ices and desserts,ices and desserts
+375,"nuts, nut products and seeds","nuts, nut products and seeds"
+376,confectionery,confectionery
+377,prepared dishes and snacks,fruits and vegetables
+378,cereals and bakery products,fruits and vegetables
+379,ices and desserts,ices and desserts
+380,"meat, egg and dairy products","meat, egg and dairy products"
+381,alcoholic beverages,alcoholic beverages
+382,fruits and vegetables,"cocoa and cocoa preparations, coffee and tea"
+383,confectionery,cereals and bakery products
+384,"meat, egg and dairy products","meat, egg and dairy products"
+385,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+386,"meat, egg and dairy products","meat, egg and dairy products"
+387,seafood,seafood
+388,"meat, egg and dairy products","meat, egg and dairy products"
+389,other food product / mixed,prepared dishes and snacks
+390,"meat, egg and dairy products","meat, egg and dairy products"
+391,"meat, egg and dairy products","meat, egg and dairy products"
+392,prepared dishes and snacks,"soups, broths, sauces and condiments"
+393,"meat, egg and dairy products","meat, egg and dairy products"
+394,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+395,fruits and vegetables,fruits and vegetables
+396,seafood,seafood
+397,"meat, egg and dairy products","meat, egg and dairy products"
+398,"meat, egg and dairy products","meat, egg and dairy products"
+399,cereals and bakery products,"cocoa and cocoa preparations, coffee and tea"
+400,fruits and vegetables,prepared dishes and snacks
+401,prepared dishes and snacks,prepared dishes and snacks
+402,cereals and bakery products,cereals and bakery products
+403,"nuts, nut products and seeds","nuts, nut products and seeds"
+404,seafood,seafood
+405,fruits and vegetables,prepared dishes and snacks
+406,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+407,"meat, egg and dairy products","meat, egg and dairy products"
+408,prepared dishes and snacks,prepared dishes and snacks
+409,"meat, egg and dairy products","meat, egg and dairy products"
+410,cereals and bakery products,cereals and bakery products
+411,prepared dishes and snacks,prepared dishes and snacks
+412,cereals and bakery products,cereals and bakery products
+413,prepared dishes and snacks,prepared dishes and snacks
+414,prepared dishes and snacks,prepared dishes and snacks
+415,alcoholic beverages,alcoholic beverages
+416,"meat, egg and dairy products","meat, egg and dairy products"
+417,cereals and bakery products,cereals and bakery products
+418,"nuts, nut products and seeds","nuts, nut products and seeds"
+419,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+420,confectionery,confectionery
+421,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+422,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+423,"meat, egg and dairy products","meat, egg and dairy products"
+424,fruits and vegetables,fruits and vegetables
+425,cereals and bakery products,cereals and bakery products
+426,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+427,fruits and vegetables,fruits and vegetables
+428,"meat, egg and dairy products","meat, egg and dairy products"
+429,cereals and bakery products,cereals and bakery products
+430,fruits and vegetables,fruits and vegetables
+431,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+432,"meat, egg and dairy products","meat, egg and dairy products"
+433,"meat, egg and dairy products",prepared dishes and snacks
+434,cereals and bakery products,cereals and bakery products
+435,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+436,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+437,ices and desserts,ices and desserts
+438,fruits and vegetables,fruits and vegetables
+439,seafood,seafood
+440,"meat, egg and dairy products","meat, egg and dairy products"
+441,fruits and vegetables,prepared dishes and snacks
+442,food additives and flavourings,"cocoa and cocoa preparations, coffee and tea"
+443,prepared dishes and snacks,"meat, egg and dairy products"
+444,cereals and bakery products,cereals and bakery products
+445,other food product / mixed,seafood
+446,cereals and bakery products,cereals and bakery products
+447,cereals and bakery products,cereals and bakery products
+448,fruits and vegetables,fruits and vegetables
+449,"meat, egg and dairy products","meat, egg and dairy products"
+450,"meat, egg and dairy products","meat, egg and dairy products"
+451,"meat, egg and dairy products","meat, egg and dairy products"
+452,seafood,seafood
+453,seafood,seafood
+454,cereals and bakery products,cereals and bakery products
+455,herbs and spices,"meat, egg and dairy products"
+456,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+457,cereals and bakery products,cereals and bakery products
+458,"meat, egg and dairy products","meat, egg and dairy products"
+459,"meat, egg and dairy products","meat, egg and dairy products"
+460,"meat, egg and dairy products","meat, egg and dairy products"
+461,"meat, egg and dairy products","meat, egg and dairy products"
+462,fruits and vegetables,fruits and vegetables
+463,"meat, egg and dairy products",prepared dishes and snacks
+464,"meat, egg and dairy products","meat, egg and dairy products"
+465,fruits and vegetables,fruits and vegetables
+466,herbs and spices,fruits and vegetables
+467,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+468,fruits and vegetables,prepared dishes and snacks
+469,other food product / mixed,"dietetic foods, food supplements, fortified foods"
+470,"meat, egg and dairy products","meat, egg and dairy products"
+471,"meat, egg and dairy products","meat, egg and dairy products"
+472,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+473,seafood,"dietetic foods, food supplements, fortified foods"
+474,fruits and vegetables,fruits and vegetables
+475,"meat, egg and dairy products","meat, egg and dairy products"
+476,cereals and bakery products,cereals and bakery products
+477,non-alcoholic beverages,fruits and vegetables
+478,cereals and bakery products,cereals and bakery products
+479,"meat, egg and dairy products","meat, egg and dairy products"
+480,prepared dishes and snacks,prepared dishes and snacks
+481,seafood,seafood
+482,fruits and vegetables,fruits and vegetables
+483,"nuts, nut products and seeds","nuts, nut products and seeds"
+484,seafood,seafood
+485,"meat, egg and dairy products",prepared dishes and snacks
+486,"nuts, nut products and seeds","cocoa and cocoa preparations, coffee and tea"
+487,"nuts, nut products and seeds",prepared dishes and snacks
+488,"meat, egg and dairy products","meat, egg and dairy products"
+489,cereals and bakery products,cereals and bakery products
+490,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+491,"meat, egg and dairy products","meat, egg and dairy products"
+492,alcoholic beverages,alcoholic beverages
+493,"meat, egg and dairy products","meat, egg and dairy products"
+494,seafood,seafood
+495,"meat, egg and dairy products","meat, egg and dairy products"
+496,fruits and vegetables,fruits and vegetables
+497,prepared dishes and snacks,prepared dishes and snacks
+498,alcoholic beverages,alcoholic beverages
+499,cereals and bakery products,cereals and bakery products
+500,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+501,herbs and spices,"nuts, nut products and seeds"
+502,"meat, egg and dairy products","meat, egg and dairy products"
+503,"meat, egg and dairy products","meat, egg and dairy products"
+504,ices and desserts,"nuts, nut products and seeds"
+505,cereals and bakery products,cereals and bakery products
+506,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+507,prepared dishes and snacks,prepared dishes and snacks
+508,seafood,prepared dishes and snacks
+509,"meat, egg and dairy products","meat, egg and dairy products"
+510,fruits and vegetables,"soups, broths, sauces and condiments"
+511,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+512,"cocoa and cocoa preparations, coffee and tea","soups, broths, sauces and condiments"
+513,"nuts, nut products and seeds",herbs and spices
+514,"meat, egg and dairy products","meat, egg and dairy products"
+515,"meat, egg and dairy products","meat, egg and dairy products"
+516,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+517,"meat, egg and dairy products","meat, egg and dairy products"
+518,confectionery,confectionery
+519,seafood,seafood
+520,"meat, egg and dairy products",cereals and bakery products
+521,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+522,confectionery,confectionery
+523,"meat, egg and dairy products","meat, egg and dairy products"
+524,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+525,herbs and spices,"dietetic foods, food supplements, fortified foods"
+526,herbs and spices,herbs and spices
+527,"meat, egg and dairy products","meat, egg and dairy products"
+528,"meat, egg and dairy products","meat, egg and dairy products"
+529,"meat, egg and dairy products","meat, egg and dairy products"
+530,"meat, egg and dairy products","meat, egg and dairy products"
+531,"meat, egg and dairy products","meat, egg and dairy products"
+532,prepared dishes and snacks,prepared dishes and snacks
+533,"meat, egg and dairy products","meat, egg and dairy products"
+534,"meat, egg and dairy products","meat, egg and dairy products"
+535,"soups, broths, sauces and condiments","meat, egg and dairy products"
+536,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+537,ices and desserts,ices and desserts
+538,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+539,"cocoa and cocoa preparations, coffee and tea",fruits and vegetables
+540,"soups, broths, sauces and condiments",non-alcoholic beverages
+541,"meat, egg and dairy products","meat, egg and dairy products"
+542,prepared dishes and snacks,prepared dishes and snacks
+543,cereals and bakery products,cereals and bakery products
+544,fruits and vegetables,fruits and vegetables
+545,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+546,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+547,cereals and bakery products,cereals and bakery products
+548,"meat, egg and dairy products","meat, egg and dairy products"
+549,prepared dishes and snacks,fruits and vegetables
+550,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+551,cereals and bakery products,cereals and bakery products
+552,prepared dishes and snacks,prepared dishes and snacks
+553,confectionery,"cocoa and cocoa preparations, coffee and tea"
+554,fruits and vegetables,"soups, broths, sauces and condiments"
+555,"meat, egg and dairy products","meat, egg and dairy products"
+556,seafood,prepared dishes and snacks
+557,prepared dishes and snacks,prepared dishes and snacks
+558,prepared dishes and snacks,prepared dishes and snacks
+559,"meat, egg and dairy products","meat, egg and dairy products"
+560,seafood,"meat, egg and dairy products"
+561,"meat, egg and dairy products",prepared dishes and snacks
+562,sugars and syrups,"dietetic foods, food supplements, fortified foods"
+563,fruits and vegetables,fruits and vegetables
+564,ices and desserts,ices and desserts
+565,ices and desserts,ices and desserts
+566,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+567,"meat, egg and dairy products","meat, egg and dairy products"
+568,fruits and vegetables,fruits and vegetables
+569,"meat, egg and dairy products","meat, egg and dairy products"
+570,confectionery,confectionery
+571,"meat, egg and dairy products","meat, egg and dairy products"
+572,non-alcoholic beverages,non-alcoholic beverages
+573,prepared dishes and snacks,prepared dishes and snacks
+574,"meat, egg and dairy products","meat, egg and dairy products"
+575,seafood,seafood
+576,"meat, egg and dairy products","meat, egg and dairy products"
+577,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+578,ices and desserts,ices and desserts
+579,confectionery,confectionery
+580,"nuts, nut products and seeds","nuts, nut products and seeds"
+581,non-alcoholic beverages,non-alcoholic beverages
+582,fruits and vegetables,fruits and vegetables
+583,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+584,"meat, egg and dairy products","meat, egg and dairy products"
+585,fruits and vegetables,cereals and bakery products
+586,"meat, egg and dairy products",fruits and vegetables
+587,herbs and spices,herbs and spices
+588,"nuts, nut products and seeds","nuts, nut products and seeds"
+589,"meat, egg and dairy products","meat, egg and dairy products"
+590,"nuts, nut products and seeds","dietetic foods, food supplements, fortified foods"
+591,"meat, egg and dairy products","meat, egg and dairy products"
+592,"meat, egg and dairy products","meat, egg and dairy products"
+593,"meat, egg and dairy products","meat, egg and dairy products"
+594,"meat, egg and dairy products","meat, egg and dairy products"
+595,other food product / mixed,"soups, broths, sauces and condiments"
+596,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+597,"meat, egg and dairy products","dietetic foods, food supplements, fortified foods"
+598,"meat, egg and dairy products",fruits and vegetables
+599,"nuts, nut products and seeds",fruits and vegetables
+600,"nuts, nut products and seeds","nuts, nut products and seeds"
+601,confectionery,confectionery
+602,"meat, egg and dairy products","meat, egg and dairy products"
+603,other food product / mixed,fruits and vegetables
+604,"nuts, nut products and seeds","nuts, nut products and seeds"
+605,cereals and bakery products,cereals and bakery products
+606,alcoholic beverages,alcoholic beverages
+607,"meat, egg and dairy products","meat, egg and dairy products"
+608,seafood,seafood
+609,"meat, egg and dairy products","meat, egg and dairy products"
+610,cereals and bakery products,cereals and bakery products
+611,cereals and bakery products,cereals and bakery products
+612,seafood,seafood
+613,"meat, egg and dairy products","meat, egg and dairy products"
+614,confectionery,cereals and bakery products
+615,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+616,"meat, egg and dairy products","meat, egg and dairy products"
+617,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+618,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+619,"soups, broths, sauces and condiments",fruits and vegetables
+620,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+621,fats and oils,fats and oils
+622,cereals and bakery products,cereals and bakery products
+623,non-alcoholic beverages,non-alcoholic beverages
+624,fruits and vegetables,fruits and vegetables
+625,"meat, egg and dairy products","meat, egg and dairy products"
+626,cereals and bakery products,"cocoa and cocoa preparations, coffee and tea"
+627,seafood,seafood
+628,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+629,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+630,confectionery,confectionery
+631,"meat, egg and dairy products","meat, egg and dairy products"
+632,cereals and bakery products,cereals and bakery products
+633,"meat, egg and dairy products","meat, egg and dairy products"
+634,"nuts, nut products and seeds","nuts, nut products and seeds"
+635,prepared dishes and snacks,prepared dishes and snacks
+636,"meat, egg and dairy products","meat, egg and dairy products"
+637,"meat, egg and dairy products","meat, egg and dairy products"
+638,"meat, egg and dairy products","meat, egg and dairy products"
+639,"meat, egg and dairy products","meat, egg and dairy products"
+640,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+641,cereals and bakery products,cereals and bakery products
+642,cereals and bakery products,"meat, egg and dairy products"
+643,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+644,"dietetic foods, food supplements, fortified foods",cereals and bakery products
+645,"meat, egg and dairy products","meat, egg and dairy products"
+646,"meat, egg and dairy products","meat, egg and dairy products"
+647,fruits and vegetables,"meat, egg and dairy products"
+648,fruits and vegetables,fruits and vegetables
+649,confectionery,fruits and vegetables
+650,"meat, egg and dairy products","meat, egg and dairy products"
+651,"meat, egg and dairy products","meat, egg and dairy products"
+652,fruits and vegetables,fruits and vegetables
+653,fruits and vegetables,cereals and bakery products
+654,"meat, egg and dairy products","meat, egg and dairy products"
+655,cereals and bakery products,cereals and bakery products
+656,cereals and bakery products,cereals and bakery products
+657,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+658,prepared dishes and snacks,prepared dishes and snacks
+659,"meat, egg and dairy products","dietetic foods, food supplements, fortified foods"
+660,ices and desserts,ices and desserts
+661,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+662,herbs and spices,herbs and spices
+663,confectionery,cereals and bakery products
+664,"meat, egg and dairy products","meat, egg and dairy products"
+665,food additives and flavourings,prepared dishes and snacks
+666,seafood,seafood
+667,"meat, egg and dairy products","meat, egg and dairy products"
+668,cereals and bakery products,prepared dishes and snacks
+669,ices and desserts,ices and desserts
+670,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+671,prepared dishes and snacks,fruits and vegetables
+672,seafood,seafood
+673,fruits and vegetables,fruits and vegetables
+674,seafood,seafood
+675,"meat, egg and dairy products","meat, egg and dairy products"
+676,cereals and bakery products,cereals and bakery products
+677,seafood,seafood
+678,fruits and vegetables,"nuts, nut products and seeds"
+679,"meat, egg and dairy products","meat, egg and dairy products"
+680,"meat, egg and dairy products",seafood
+681,"meat, egg and dairy products","meat, egg and dairy products"
+682,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+683,prepared dishes and snacks,seafood
+684,non-alcoholic beverages,non-alcoholic beverages
+685,"meat, egg and dairy products","meat, egg and dairy products"
+686,cereals and bakery products,cereals and bakery products
+687,prepared dishes and snacks,"meat, egg and dairy products"
+688,confectionery,confectionery
+689,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+690,"meat, egg and dairy products","meat, egg and dairy products"
+691,prepared dishes and snacks,prepared dishes and snacks
+692,"meat, egg and dairy products","meat, egg and dairy products"
+693,"meat, egg and dairy products","meat, egg and dairy products"
+694,"meat, egg and dairy products","meat, egg and dairy products"
+695,prepared dishes and snacks,prepared dishes and snacks
+696,ices and desserts,ices and desserts
+697,"meat, egg and dairy products",fruits and vegetables
+698,"meat, egg and dairy products","meat, egg and dairy products"
+699,"meat, egg and dairy products","meat, egg and dairy products"
+700,"meat, egg and dairy products","meat, egg and dairy products"
+701,"meat, egg and dairy products","meat, egg and dairy products"
+702,"meat, egg and dairy products","meat, egg and dairy products"
+703,prepared dishes and snacks,"meat, egg and dairy products"
+704,prepared dishes and snacks,prepared dishes and snacks
+705,other food product / mixed,"soups, broths, sauces and condiments"
+706,"meat, egg and dairy products","meat, egg and dairy products"
+707,"meat, egg and dairy products","meat, egg and dairy products"
+708,"meat, egg and dairy products","meat, egg and dairy products"
+709,other food product / mixed,confectionery
+710,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+711,prepared dishes and snacks,"meat, egg and dairy products"
+712,other food product / mixed,fruits and vegetables
+713,"meat, egg and dairy products","meat, egg and dairy products"
+714,"meat, egg and dairy products","meat, egg and dairy products"
+715,"meat, egg and dairy products","meat, egg and dairy products"
+716,seafood,seafood
+717,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+718,"meat, egg and dairy products","meat, egg and dairy products"
+719,cereals and bakery products,cereals and bakery products
+720,"meat, egg and dairy products","meat, egg and dairy products"
+721,"meat, egg and dairy products","meat, egg and dairy products"
+722,honey and royal jelly,"meat, egg and dairy products"
+723,cereals and bakery products,cereals and bakery products
+724,"meat, egg and dairy products","meat, egg and dairy products"
+725,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+726,prepared dishes and snacks,prepared dishes and snacks
+727,"meat, egg and dairy products","meat, egg and dairy products"
+728,prepared dishes and snacks,"meat, egg and dairy products"
+729,prepared dishes and snacks,prepared dishes and snacks
+730,confectionery,ices and desserts
+731,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+732,fats and oils,seafood
+733,"meat, egg and dairy products","meat, egg and dairy products"
+734,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+735,cereals and bakery products,confectionery
+736,"meat, egg and dairy products","meat, egg and dairy products"
+737,"meat, egg and dairy products","meat, egg and dairy products"
+738,prepared dishes and snacks,cereals and bakery products
+739,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+740,"meat, egg and dairy products",fruits and vegetables
+741,"meat, egg and dairy products","meat, egg and dairy products"
+742,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+743,fruits and vegetables,fruits and vegetables
+744,fruits and vegetables,fruits and vegetables
+745,seafood,seafood
+746,seafood,seafood
+747,other food product / mixed,"soups, broths, sauces and condiments"
+748,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+749,fruits and vegetables,fruits and vegetables
+750,prepared dishes and snacks,prepared dishes and snacks
+751,seafood,seafood
+752,fruits and vegetables,fruits and vegetables
+753,seafood,seafood
+754,ices and desserts,confectionery
+755,prepared dishes and snacks,"meat, egg and dairy products"
+756,cereals and bakery products,cereals and bakery products
+757,cereals and bakery products,cereals and bakery products
+758,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+759,"meat, egg and dairy products",prepared dishes and snacks
+760,"nuts, nut products and seeds","nuts, nut products and seeds"
+761,"meat, egg and dairy products","meat, egg and dairy products"
+762,fruits and vegetables,fruits and vegetables
+763,"meat, egg and dairy products","meat, egg and dairy products"
+764,fruits and vegetables,"nuts, nut products and seeds"
+765,cereals and bakery products,cereals and bakery products
+766,ices and desserts,ices and desserts
+767,prepared dishes and snacks,prepared dishes and snacks
+768,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+769,"meat, egg and dairy products","meat, egg and dairy products"
+770,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+771,cereals and bakery products,cereals and bakery products
+772,"soups, broths, sauces and condiments",seafood
+773,"meat, egg and dairy products","meat, egg and dairy products"
+774,fruits and vegetables,fruits and vegetables
+775,ices and desserts,ices and desserts
+776,seafood,seafood
+777,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+778,"meat, egg and dairy products","meat, egg and dairy products"
+779,"nuts, nut products and seeds",prepared dishes and snacks
+780,prepared dishes and snacks,cereals and bakery products
+781,"meat, egg and dairy products","meat, egg and dairy products"
+782,fruits and vegetables,fruits and vegetables
+783,fruits and vegetables,"meat, egg and dairy products"
+784,"meat, egg and dairy products","meat, egg and dairy products"
+785,fruits and vegetables,fruits and vegetables
+786,fruits and vegetables,fruits and vegetables
+787,confectionery,confectionery
+788,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+789,non-alcoholic beverages,non-alcoholic beverages
+790,cereals and bakery products,cereals and bakery products
+791,"meat, egg and dairy products","meat, egg and dairy products"
+792,confectionery,"cocoa and cocoa preparations, coffee and tea"
+793,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+794,cereals and bakery products,cereals and bakery products
+795,"meat, egg and dairy products","meat, egg and dairy products"
+796,"meat, egg and dairy products","meat, egg and dairy products"
+797,cereals and bakery products,cereals and bakery products
+798,cereals and bakery products,cereals and bakery products
+799,seafood,seafood
+800,"meat, egg and dairy products","meat, egg and dairy products"
+801,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+802,"meat, egg and dairy products","meat, egg and dairy products"
+803,"meat, egg and dairy products","meat, egg and dairy products"
+804,food additives and flavourings,"dietetic foods, food supplements, fortified foods"
+805,fruits and vegetables,fruits and vegetables
+806,prepared dishes and snacks,prepared dishes and snacks
+807,confectionery,confectionery
+808,cereals and bakery products,cereals and bakery products
+809,seafood,seafood
+810,cereals and bakery products,alcoholic beverages
+811,"meat, egg and dairy products",prepared dishes and snacks
+812,"meat, egg and dairy products","meat, egg and dairy products"
+813,cereals and bakery products,cereals and bakery products
+814,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+815,"meat, egg and dairy products","meat, egg and dairy products"
+816,alcoholic beverages,alcoholic beverages
+817,cereals and bakery products,"dietetic foods, food supplements, fortified foods"
+818,"dietetic foods, food supplements, fortified foods",cereals and bakery products
+819,"meat, egg and dairy products","meat, egg and dairy products"
+820,fruits and vegetables,fruits and vegetables
+821,cereals and bakery products,"meat, egg and dairy products"
+822,cereals and bakery products,cereals and bakery products
+823,"nuts, nut products and seeds","nuts, nut products and seeds"
+824,fruits and vegetables,seafood
+825,confectionery,cereals and bakery products
+826,fruits and vegetables,fruits and vegetables
+827,fruits and vegetables,fruits and vegetables
+828,"meat, egg and dairy products","meat, egg and dairy products"
+829,"nuts, nut products and seeds",fruits and vegetables
+830,other food product / mixed,ices and desserts
+831,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+832,"meat, egg and dairy products","meat, egg and dairy products"
+833,cereals and bakery products,cereals and bakery products
+834,seafood,seafood
+835,cereals and bakery products,cereals and bakery products
+836,seafood,seafood
+837,cereals and bakery products,cereals and bakery products
+838,fruits and vegetables,cereals and bakery products
+839,seafood,seafood
+840,prepared dishes and snacks,fruits and vegetables
+841,ices and desserts,"dietetic foods, food supplements, fortified foods"
+842,"meat, egg and dairy products","meat, egg and dairy products"
+843,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+844,fruits and vegetables,fruits and vegetables
+845,prepared dishes and snacks,"dietetic foods, food supplements, fortified foods"
+846,fruits and vegetables,fruits and vegetables
+847,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+848,"dietetic foods, food supplements, fortified foods",cereals and bakery products
+849,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+850,prepared dishes and snacks,"meat, egg and dairy products"
+851,cereals and bakery products,confectionery
+852,"meat, egg and dairy products","meat, egg and dairy products"
+853,seafood,seafood
+854,confectionery,"nuts, nut products and seeds"
+855,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+856,cereals and bakery products,cereals and bakery products
+857,"nuts, nut products and seeds",fruits and vegetables
+858,"meat, egg and dairy products","soups, broths, sauces and condiments"
+859,fruits and vegetables,fruits and vegetables
+860,fruits and vegetables,fruits and vegetables
+861,cereals and bakery products,cereals and bakery products
+862,seafood,seafood
+863,"meat, egg and dairy products","meat, egg and dairy products"
+864,"dietetic foods, food supplements, fortified foods",cereals and bakery products
+865,"meat, egg and dairy products","meat, egg and dairy products"
+866,fruits and vegetables,fruits and vegetables
+867,cereals and bakery products,prepared dishes and snacks
+868,"nuts, nut products and seeds","nuts, nut products and seeds"
+869,"nuts, nut products and seeds","nuts, nut products and seeds"
+870,cereals and bakery products,cereals and bakery products
+871,"meat, egg and dairy products","meat, egg and dairy products"
+872,"dietetic foods, food supplements, fortified foods",alcoholic beverages
+873,prepared dishes and snacks,prepared dishes and snacks
+874,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+875,"nuts, nut products and seeds","nuts, nut products and seeds"
+876,cereals and bakery products,cereals and bakery products
+877,cereals and bakery products,prepared dishes and snacks
+878,prepared dishes and snacks,cereals and bakery products
+879,prepared dishes and snacks,prepared dishes and snacks
+880,cereals and bakery products,cereals and bakery products
+881,prepared dishes and snacks,cereals and bakery products
+882,fruits and vegetables,fruits and vegetables
+883,herbs and spices,fruits and vegetables
+884,"soups, broths, sauces and condiments","meat, egg and dairy products"
+885,pet feed,pet feed
+886,fruits and vegetables,fruits and vegetables
+887,seafood,seafood
+888,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+889,ices and desserts,ices and desserts
+890,prepared dishes and snacks,herbs and spices
+891,fruits and vegetables,fruits and vegetables
+892,"meat, egg and dairy products","meat, egg and dairy products"
+893,prepared dishes and snacks,prepared dishes and snacks
+894,confectionery,confectionery
+895,"meat, egg and dairy products","meat, egg and dairy products"
+896,fruits and vegetables,fruits and vegetables
+897,herbs and spices,"meat, egg and dairy products"
+898,pet feed,pet feed
+899,prepared dishes and snacks,prepared dishes and snacks
+900,seafood,seafood
+901,"meat, egg and dairy products","meat, egg and dairy products"
+902,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+903,cereals and bakery products,cereals and bakery products
+904,fruits and vegetables,fruits and vegetables
+905,cereals and bakery products,cereals and bakery products
+906,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+907,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+908,cereals and bakery products,cereals and bakery products
+909,other food product / mixed,seafood
+910,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+911,prepared dishes and snacks,prepared dishes and snacks
+912,"meat, egg and dairy products",cereals and bakery products
+913,"meat, egg and dairy products","meat, egg and dairy products"
+914,cereals and bakery products,"nuts, nut products and seeds"
+915,other food product / mixed,"dietetic foods, food supplements, fortified foods"
+916,non-alcoholic beverages,herbs and spices
+917,non-alcoholic beverages,non-alcoholic beverages
+918,"soups, broths, sauces and condiments",prepared dishes and snacks
+919,seafood,seafood
+920,fruits and vegetables,fruits and vegetables
+921,ices and desserts,ices and desserts
+922,cereals and bakery products,herbs and spices
+923,fruits and vegetables,fruits and vegetables
+924,seafood,seafood
+925,prepared dishes and snacks,"dietetic foods, food supplements, fortified foods"
+926,"soups, broths, sauces and condiments",fruits and vegetables
+927,fruits and vegetables,fruits and vegetables
+928,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+929,cereals and bakery products,cereals and bakery products
+930,fruits and vegetables,fruits and vegetables
+931,cereals and bakery products,prepared dishes and snacks
+932,"meat, egg and dairy products","meat, egg and dairy products"
+933,cereals and bakery products,"cocoa and cocoa preparations, coffee and tea"
+934,"dietetic foods, food supplements, fortified foods","dietetic foods, food supplements, fortified foods"
+935,fruits and vegetables,fruits and vegetables
+936,"meat, egg and dairy products","meat, egg and dairy products"
+937,"nuts, nut products and seeds","nuts, nut products and seeds"
+938,prepared dishes and snacks,prepared dishes and snacks
+939,seafood,seafood
+940,seafood,seafood
+941,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+942,cereals and bakery products,cereals and bakery products
+943,cereals and bakery products,cereals and bakery products
+944,"nuts, nut products and seeds","nuts, nut products and seeds"
+945,"cocoa and cocoa preparations, coffee and tea",confectionery
+946,seafood,seafood
+947,"meat, egg and dairy products","meat, egg and dairy products"
+948,"meat, egg and dairy products","meat, egg and dairy products"
+949,fruits and vegetables,fruits and vegetables
+950,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+951,"soups, broths, sauces and condiments","meat, egg and dairy products"
+952,cereals and bakery products,fruits and vegetables
+953,cereals and bakery products,cereals and bakery products
+954,"meat, egg and dairy products","meat, egg and dairy products"
+955,fruits and vegetables,"nuts, nut products and seeds"
+956,fruits and vegetables,fruits and vegetables
+957,fruits and vegetables,fruits and vegetables
+958,fruits and vegetables,fruits and vegetables
+959,"meat, egg and dairy products","meat, egg and dairy products"
+960,seafood,seafood
+961,confectionery,confectionery
+962,non-alcoholic beverages,non-alcoholic beverages
+963,cereals and bakery products,cereals and bakery products
+964,seafood,seafood
+965,"nuts, nut products and seeds","nuts, nut products and seeds"
+966,confectionery,"cocoa and cocoa preparations, coffee and tea"
+967,cereals and bakery products,cereals and bakery products
+968,"nuts, nut products and seeds","nuts, nut products and seeds"
+969,"meat, egg and dairy products",seafood
+970,"soups, broths, sauces and condiments",cereals and bakery products
+971,seafood,seafood
+972,"meat, egg and dairy products","meat, egg and dairy products"
+973,"meat, egg and dairy products","meat, egg and dairy products"
+974,"soups, broths, sauces and condiments","soups, broths, sauces and condiments"
+975,"nuts, nut products and seeds","nuts, nut products and seeds"
+976,prepared dishes and snacks,"nuts, nut products and seeds"
+977,confectionery,"nuts, nut products and seeds"
+978,ices and desserts,ices and desserts
+979,"dietetic foods, food supplements, fortified foods",confectionery
+980,"nuts, nut products and seeds",confectionery
+981,prepared dishes and snacks,"soups, broths, sauces and condiments"
+982,seafood,seafood
+983,"meat, egg and dairy products","meat, egg and dairy products"
+984,ices and desserts,ices and desserts
+985,cereals and bakery products,prepared dishes and snacks
+986,fruits and vegetables,"soups, broths, sauces and condiments"
+987,"meat, egg and dairy products","meat, egg and dairy products"
+988,honey and royal jelly,"dietetic foods, food supplements, fortified foods"
+989,herbs and spices,herbs and spices
+990,cereals and bakery products,cereals and bakery products
+991,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"
+992,"meat, egg and dairy products","meat, egg and dairy products"
+993,herbs and spices,herbs and spices
+994,seafood,seafood
+995,confectionery,confectionery
+996,"cocoa and cocoa preparations, coffee and tea","cocoa and cocoa preparations, coffee and tea"

@@ -1,0 +1,998 @@
+index,true_label,predicted_label
+0,prepared salads,ham slices
+1,prepared salads,broccoli
+2,prepared salads,thermal processed pork meat
+3,dressing,sliced ham
+4,pesto,ice cream
+5,snacks (various),fruit juice
+6,cheese products,ricotta cheese
+7,pesto,other not classified meat products
+8,sauces,pasta sauce
+9,dressing,fish and fish products
+10,ground beef,ground beef
+11,ready to eat - cook meals,ready to eat - cook meals
+12,biscuits,ice cream
+13,bread,custard
+14,olive oil,olive oil
+15,bread,cakes
+16,sauces,ravioli
+17,beer,beer
+18,dressing,crabs
+19,bread,bread
+20,sauces,cooking sauce
+21,soup,noodles
+22,pesto,feta cheese
+23,soup,soup
+24,dressing,chicken noodle soup
+25,sauces,pasta sauce
+26,dressing,cakes
+27,dressing,salami
+28,dressing,drinking chocolate powder
+29,dressing,wine
+30,bread,custard
+31,snacks (various),ravioli
+32,ice cream,sorbets
+33,pesto,chicken based products
+34,pesto,cheese
+35,dressing,baby food
+36,snacks (various),milk chocolate covered raisins
+37,dressing,fruit bars
+38,dressing,muffins
+39,snacks (various),curry
+40,snacks (various),bread
+41,dressing,goat cheese
+42,snacks (various),rice crackers
+43,pesto,ready to eat - cook meals
+44,dressing,garlic powder
+45,pesto,prawns
+46,chicken based products,chicken based products
+47,ice cream,ice cream
+48,pesto,onions
+49,honey,veal meat and offals
+50,frozen beef patties,frozen beef products
+51,dressing,dried beef meat
+52,chocolate bars,ready to eat - cook meals
+53,honey,Other
+54,dressing,cheese
+55,dressing,rice sticks
+56,other water-based drinks,bottled water
+57,beef,beef meat
+58,sauces,wine
+59,snacks (various),yoghurt
+60,dressing,beef
+61,dressing,feta cheese
+62,potato chips,potato chips
+63,peanuts,peanuts
+64,dressing,sauce
+65,ice cream,ice cream
+66,ice cream,ice cream
+67,ice cream,ice cream
+68,ice cream,ice cream
+69,ice cream,ice cream
+70,ice cream,ice cream
+71,ice cream,ice cream
+72,sandwiches,hot dogs
+73,ice cream,ice cream
+74,ice cream,ice cream
+75,bread,cakes
+76,peanuts,candies
+77,candies,vegetable based products
+78,raw milk,raw milk
+79,ice cream,ice cream
+80,biscuits,ice cream
+81,apricot kernels,bitter apricot kernels
+82,yoghurt,custard
+83,dressing,cheese
+84,sauces,sesame
+85,dressing,candies
+86,potato chips,potato chips
+87,snacks (various),sesame seeds
+88,salads,salads
+89,wraps,frozen chicken
+90,beer,ready to eat - cook meals
+91,other water-based drinks,spring water
+92,ice cream,ice cream
+93,yoghurt,yoghurt
+94,dressing,bakery products
+95,biscuits,cookies
+96,soups,potato chips
+97,salmon,salmon
+98,pesto,Other
+99,pesto,almond kernels
+100,palm oil,palm oil
+101,sausage,cheese sausages
+102,ice cream,ice cream
+103,soups,sprouts
+104,dressing,beer
+105,sauces,milk powder
+106,soups,cookies
+107,snacks (various),algae
+108,pesto,potato chips
+109,sausage,ready to eat - cook meals
+110,dressing,sandwiches
+111,ice cream,ice cream
+112,snacks (various),squid
+113,cheese,butter
+114,sauces,Other
+115,chicken based products,chicken based products
+116,sauces,turkey and turkey preparations
+117,chicken based products,wraps
+118,pork sausage,thermal processed pork meat
+119,cookies,biscuits
+120,pork sausage,sausage products
+121,fruit juice,orange juice
+122,confectionery,confectionery
+123,potatoes,fresh processed beef meat products
+124,halloumi cheese,other not classified meat products
+125,dip-sauce,fruits and vegetables
+126,dip-sauce,milk
+127,cheese products,feta cheese
+128,baby spinach,other dairy products
+129,bread,wraps
+130,confectionery,nuts
+131,sauces,other types of meat
+132,mango,mango
+133,pretzels,Other
+134,peanuts,peanuts
+135,prepared salads,nuts
+136,chicken breast,chicken preparations
+137,ice cream,ice cream
+138,peanuts,candies
+139,ground beef,ground beef
+140,ice cream,ice cream
+141,cakes,spinach
+142,other types of meat,sausage products
+143,pig meat - pork,Other
+144,desserts,ready to eat - cook meals
+145,thermal processed pork meat,jerky products
+146,frozen pizza,frozen pizza
+147,smoked sausage,thermal processed pork meat
+148,biscuits,biscuits
+149,chicken based products,chicken based products
+150,salmon,salmon
+151,ice cream,ice cream
+152,chocolate bars,chocolate bars
+153,chicken based products,mechanically separated chicken meat
+154,candies,hazelnuts
+155,pretzels,margarine
+156,snacks (various),hazelnuts
+157,candies,hazelnuts
+158,candies,hazelnuts
+159,candies,candies
+160,pistachio nuts,pistachio nuts
+161,pistachio nuts,pistachio nuts
+162,bread,bread
+163,cakes,pistachio nuts
+164,pistachio nuts,pistachio nuts
+165,cookies,cookies
+166,peanuts,candies
+167,snack mix,snack mix
+168,Fishes not identified,Fishes not identified
+169,peanuts,peanuts
+170,ice cream,ice cream
+171,gorgonzola cheese,gorgonzola cheese
+172,pesto,broccoli
+173,beef products,beef tongue
+174,bread,bread
+175,coconuts,garlic powder
+176,thermal processed pork meat,thermal processed pork meat
+177,dressing,chicken based products
+178,pesto,vodka
+179,soup,chicken noodle soup
+180,ham,sliced ham
+181,chicken based products,chicken preparations
+182,cookies,ice cream
+183,potato chips,sweets
+184,potato chips,flavoured potato chips
+185,soups,Other
+186,potato chips,Other
+187,Precooked cooked pork meat products,thermal processed pork meat
+188,thermal processed pork meat,pork preparation
+189,chicken based products,chicken based products
+190,baby spinach,plum bread &amp; butter pudding
+191,pesto,Other
+192,poultry meat and poultry meat products,various chilled or frozen pork products
+193,biscuits,ready to eat - cook meals
+194,chia seeds,chia seeds
+195,chia seeds,chia seeds
+196,other water-based drinks,Other
+197,beef,beef products
+198,turkey and turkey preparations,turkey based products
+199,Not classified pork meat,pork preparation
+200,pork sausage,sausage products
+201,thermal processed pork meat,Other
+202,pig meat - pork,raw pork meat and raw pork meat preparations
+203,snacks (various),cereal
+204,beef products,various beef products
+205,Fishes not identified,fish products
+206,snacks (various),ground almonds
+207,ground beef,beef products
+208,chicken based products,prepared salads
+209,snacks (various),tofu
+210,salads,minced beef
+211,soup,soup
+212,chicken based products,chicken breast
+213,milk products,milk products
+214,lamb,lamb
+215,chicken based products,chicken based products
+216,prepared dishes and snacks,pasta sauce
+217,pork sausage,sausage
+218,dried apricots,golden raisins/sultanas
+219,yoghurt,yoghurt
+220,snacks (various),cottage pie
+221,chicken based products,chicken based products
+222,ground beef,ground beef
+223,chicken based products,salads
+224,dressing,wine
+225,pork sausage,pork sausage
+226,peanuts,ice cream
+227,peanuts,ice cream
+228,beef products,lamb
+229,golden raisins/sultanas,golden raisins/sultanas
+230,Not classified pork meat,dry ham
+231,pesto,olives
+232,Not classified pork meat,pork preparation
+233,chicken based products,frozen poultry products
+234,snacks (various),melon seeds
+235,snacks (various),chilli sauce
+236,sauces,golden raisins/sultanas
+237,snacks (various),Other
+238,Not classified pork meat,Not classified pork meat
+239,thermal processed pork meat,Other
+240,sauces,wine
+241,sauces,wine
+242,dressing,chicken preparations
+243,beer,chocolate and strawberry flavoured cyclone milk
+244,chocolate,chocolate
+245,snacks (various),salmon
+246,thermal processed pork meat,baby food
+247,snacks (various),dipping sauce
+248,snacks (various),Other
+249,dressing,wine
+250,goji berries,Other
+251,pork preparation,pork preparation
+252,beef products,chicken products - frozen
+253,thermal processed pork meat,sausage products
+254,wine,spice mix
+255,mixed vegetables,Other
+256,thermal processed pork meat,pork preparation
+257,coconuts,coconuts
+258,wine,wine
+259,fruit pies,black pepper
+260,mashed chickpeas (hummus),mashed chickpeas (hummus)
+261,turkey and turkey preparations,turkey based products
+262,curry,spices
+263,ground beef,ground beef
+264,Not classified pork meat,pig meat - pork
+265,turkey based products,chicken based products
+266,soups,various bakery products
+267,coconuts,coconuts
+268,beef,Other
+269,dressing,salad dressing
+270,jam,carbonated beverage
+271,raw beef meat,ground beef
+272,bread,frozen vegetarian cutlet
+273,honey,Other
+274,palm oil,palm oil
+275,Not classified pork meat,Other
+276,turkey and turkey preparations,turkey based products
+277,dressing,Other
+278,sauces,coriander
+279,dark chocolate coated almonds,dark chocolates
+280,other dairy products,other dairy products
+281,ham,ham
+282,prepared dishes and snacks,Other
+283,pesto,coconut juice
+284,prepared salads,spinach
+285,prepared dishes and snacks,Other
+286,pig meat - pork,turkey and turkey preparations
+287,thermal processed pork meat,various meat products
+288,cooked chicken,frozen dumplings with pork
+289,chicken based products,chicken based products
+290,cookies,cookies
+291,thermal processed pork meat,beef products
+292,yoghurt,yoghurt
+293,thermal processed beef meat,thermal processed beef meat
+294,snacks (various),Other
+295,dressing,chickpeas
+296,dressing,Other
+297,sauces,Other
+298,thermal processed pork meat,frozen pork preparations
+299,dressing,corn
+300,candies,Other
+301,pretzel stick,pretzels
+302,soups,batter mix
+303,baby spinach,salads
+304,pesto,milk
+305,potato chips,Other
+306,sandwiches,camembert
+307,pretzels,cod
+308,fruit pies,starch
+309,bread,bakery products
+310,chicken based products,chicken based products
+311,other types of meat,breakfast cereals
+312,jam,horseradish in jars
+313,dietary supplement,energy drink
+314,dark chocolates,dark chocolates
+315,macadamia nuts,macadamia nuts
+316,cakes,cakes
+317,cakes,cakes
+318,pistachio nuts,pistachio nuts
+319,jam,turkey and turkey preparations
+320,dressing,Other
+321,bread,salads
+322,pork sausage,thermal processed pork meat
+323,dried apricots,golden raisins/sultanas
+324,soup,soup
+325,dressing,chicken based products
+326,cookies,cookies
+327,paella,sauces
+328,candies,Other
+329,sunflower seed,sunflower seed
+330,chocolate bars,bars
+331,other types of meat,meat preparations
+332,sauces,noodles
+333,chicken,chicken and chicken preparations
+334,green bean,frozen vegetables
+335,snacks (various),frozen vegetables
+336,sunflower seed,frozen vegetables mix
+337,cakes,chocolate
+338,ready to eat - cook meals,chicken
+339,snack mix,snack mix
+340,prepared salads,maize
+341,chicken based products,chicken based products
+342,bars,bars
+343,sunflower seed,sunflower seed
+344,bars,snack mix
+345,sauces,dietary supplement
+346,candies,burrito (ready to eat)
+347,other not classified meat products,other not classified meat products
+348,snack mix,snacks (various)
+349,sunflower seed,sunflower seed
+350,bars,cereal bars
+351,bars,bars
+352,Not classified pork meat,dried pork sausages
+353,raw beef meat,beef
+354,sandwiches,wraps
+355,ready to eat - cook meals,frozen peas
+356,bars,snacks (various)
+357,snacks (various),sunflower seed
+358,chocolate,milk chocolates
+359,other types of meat,pork sausage
+360,dip-sauce,rice meal
+361,pasta salad,potato salad
+362,ready to eat - cook meals,poultry meat and poultry meat products
+363,pesto,ready to eat - cook meals
+364,snacks (various),pretzel stick
+365,Catfishes (freshwater),Catfishes (freshwater)
+366,shrimps,shrimps
+367,milk powder,baking mix
+368,yoghurt,yoghurt
+369,cakes,frozen sausage rolls
+370,ice cream,ice cream
+371,curry,curry
+372,croissants,croissants
+373,pork sausage,pig meat - pork
+374,ice cream,ice cream
+375,ready to eat - cook meals,almond products
+376,honey,candies
+377,bread,ready to eat - cook meals
+378,snacks (various),Other
+379,ice cream,ice cream
+380,chicken based products,chicken based products
+381,sauces,cider
+382,soups,salads
+383,snacks (various),brownies
+384,chicken based products,chicken breast
+385,chocolate,coffee beans
+386,feta cheese,feta cheese
+387,salmon,salmon
+388,dried beef meat,dried beef meat
+389,Veggie Burger,Veggie Burger
+390,other not classified meat products,beef
+391,chicken based products,chicken breast
+392,ready to eat - cook meals,snacks (various)
+393,chicken based products,marinated chicken meat
+394,chicken based products,soup
+395,mashed chickpeas (hummus),mashed chickpeas (hummus)
+396,herring,herring
+397,cheese,goat cheese
+398,chicken breast,chicken meat products
+399,chocolate bars,cereal bars
+400,ready to eat - cook meals,vegetable based products
+401,potato chips,flavoured potato chips
+402,cookies,cookies
+403,pistachio nuts,pistachio nuts
+404,Fishes not identified,Other
+405,dressing,potatoes
+406,dressing,salad dressing
+407,frozen beef patties,beef
+408,potato chips,flavoured potato chips
+409,pork sausage,Other
+410,bread mix,baking mix
+411,sandwiches,sandwich filling
+412,snacks (various),corn
+413,pesto,Other
+414,salads,snack mix
+415,cider,cider
+416,turkey and turkey preparations,turkey and turkey preparations
+417,bread,bread
+418,peanuts,peanuts
+419,sauces,milk chocolates
+420,jellies,jellies
+421,soup,soup
+422,dressing,tomato sauce
+423,cheese,cheese
+424,sauces,Other
+425,cookies,biscuits
+426,chocolate bars,chocolate bars
+427,fruits and vegetables,soybean
+428,ground beef meat,boneless beef
+429,biscuits,biscuits
+430,snacks (various),mixed salad
+431,soup,soup
+432,chicken based products,chicken breast
+433,other types of meat,chicken preparations
+434,cookies,muffins
+435,dressing,chocolate bars
+436,dark chocolates,chocolate eggs
+437,ice cream,ice cream
+438,dressing,concentrated apples
+439,other types of meat,prawns
+440,chicken based products,chicken breast
+441,bread,vegetables
+442,snacks (various),Other
+443,beef,hot dogs
+444,flour,flour
+445,bread,quorn preparation
+446,butter,flour
+447,cakes,cakes
+448,pesto,Other
+449,other types of meat,Other
+450,pork sausage,Other
+451,chicken breast,chicken based products
+452,Fishes not identified,Fishes not identified
+453,dressing,Fishes not identified
+454,biscuits,cookies
+455,sandwiches,Other
+456,peanuts,protein bar
+457,bread,cakes
+458,chicken based products,other types of meat
+459,dressing,hot dog sausages
+460,duck,other types of meat
+461,chicken products - frozen,poultry
+462,veal,broccoli
+463,Fishes not identified,other not classified meat products
+464,thermal processed pork meat,thermal processed pork meat
+465,bars,cherries
+466,snacks (various),Other
+467,chocolate chips,chocolate chips
+468,yoghurt,salads
+469,dressing,Other
+470,prepared salads,chorizo
+471,spread,pork sausage
+472,candies,milk chocolates
+473,soups,seafood products
+474,snacks (various),Other
+475,thermal processed beef meat,thermal processed beef meat
+476,biscuits,cookies
+477,sauces,energy drink
+478,cookies,cookies
+479,veal,pork preparation
+480,sandwiches,sandwiches
+481,salmon,Other
+482,prepared salads,Other
+483,snacks (various),nut and fruit mixture
+484,tuna,tuna
+485,chicken based products,pig meat - pork
+486,dark chocolates,cashew
+487,snacks (various),Other
+488,beef,beef tongue
+489,dressing,rice
+490,dressing,protein bar
+491,other not classified meat products,other not classified meat products
+492,jam,wine
+493,infant formula,infant formula
+494,shrimps,shrimps
+495,blue cheese,blue cheese
+496,salads,salads
+497,sandwiches,sandwiches
+498,sauces,wine
+499,biscuits,biscuits
+500,instant coffee,instant coffee
+501,sesame seeds,sesame seeds
+502,ice cream,cream cheese
+503,milk,milk
+504,pretzels,desserts
+505,bread,bread
+506,ready to eat - cook meals,Other
+507,soups,ready to eat - cook meals
+508,thermal processed pork meat,shrimps
+509,chicken based products,chicken based products
+510,prepared salads,salads
+511,soups,basil pesto sauce
+512,peanuts,chocolate eggs
+513,snacks (various),Other
+514,sausage,other not classified meat products
+515,jam,pork sausage
+516,mitragyna speciosa (kratom),mitragyna speciosa (kratom)
+517,sandwiches,thermal processed beef meat
+518,pretzels,yogurt raisins
+519,salmon,salmon
+520,ready to eat - cook meals,other not classified meat products
+521,dietary supplement,dietary supplement
+522,candies,candies
+523,ham,ham
+524,honey,vitamins
+525,dried herb powder ashwagandha (withania somnifera),dried herb powder ashwagandha (withania somnifera)
+526,baking mix,amaranth
+527,frozen beef patties,frozen beef patties
+528,eggs,eggs
+529,cheese,soft ripened cheese
+530,thermal processed beef meat,thermal processed beef meat
+531,eggs,eggs
+532,sandwiches,sandwiches
+533,pork sausage,pork shoulder
+534,yoghurt,yoghurt
+535,dip-sauce,salad dressing
+536,salads,salad dressing
+537,ice cream,ice cream
+538,soup,soup
+539,spread,coffee beans
+540,pretzels,dressing
+541,cheese,raw milk cheese reblochon
+542,potato chips,potato croquettes
+543,soups,cookies
+544,frozen broccoli,frozen broccoli
+545,mitragyna speciosa (kratom),mitragyna speciosa (kratom)
+546,protein bar,protein bar
+547,breakfast cereals,breakfast cereals
+548,pork sausage,meat and meat products (other than poultry)
+549,salads,vegetable ready to eat meals
+550,sauces,soy sauce
+551,candies,Other
+552,soups,crackers
+553,Fishes not identified,cake decoration
+554,curry,Other
+555,beef products,Not classified pork meat
+556,salads,seafood
+557,salads,pasta salad
+558,blue cheese,sandwiches
+559,chicken based products,chicken based products
+560,dip-sauce,cod
+561,crackers,milk proteins
+562,spread,sugar
+563,dip-sauce,mixed vegetables
+564,ice cream,ice cream
+565,ice cream,ice cream
+566,mitragyna speciosa (kratom),mitragyna speciosa (kratom)
+567,cooked chicken,meatloaf
+568,dressing,Other
+569,cheese,camembert
+570,candies,candies
+571,pesto,eggs
+572,bottled water,mineral water
+573,beef products,Other
+574,cheddar cheese,Precooked cooked pork meat products
+575,oysters,oysters
+576,dried beef meat,dried beef meat
+577,pesto,basil pesto sauce
+578,desserts,desserts
+579,potato chips,tortilla chips
+580,bottled water,macadamia nuts
+581,pretzels,carbonated beverage
+582,cheddar cheese,mixed salad
+583,rice snack,chocolate truffles
+584,ham,ham
+585,coconuts,coconuts
+586,salads,frozen burgers
+587,curry,curry
+588,pistachio nuts,pistachio nuts
+589,thermal processed pork meat,pork preparation
+590,whey protein,Other
+591,chicken based products,chicken based products
+592,candies,cheese
+593,dressing,other not classified meat products
+594,chicken based products,chicken based products
+595,pesto,green pesto
+596,dark chocolates,dark chocolates
+597,crabs,Other
+598,salads,other not classified meat products
+599,sauces,canned corn
+600,peanuts,ground almonds
+601,jellies,jellies
+602,turkey and turkey preparations,turkey and turkey preparations
+603,dressing,tofu
+604,peanuts,tahini
+605,bread,bread
+606,beer,beer
+607,dressing,milk
+608,Fishes not identified,frozen fish products
+609,chicken based products,chicken based products
+610,dressing,frozen pizza
+611,cookies,cookies
+612,Catfishes (freshwater),Catfishes (freshwater)
+613,cheese products,feta cheese
+614,wafers,Other
+615,protein bar,protein bar
+616,pork sausage,smoked sausage
+617,peanuts,brewer's yeast
+618,dark chocolates,dark chocolates
+619,sauces,dip-sauce
+620,sauce,sauce
+621,coconut oil,coconut oil
+622,pretzels,breakfast cereals
+623,bottled water,Other
+624,soup,frozen vegetables mix
+625,ham,ham
+626,dark chocolates,cookies
+627,Catfishes (freshwater),Catfishes (freshwater)
+628,chocolate bars,dark chocolates
+629,brewer's yeast,Other
+630,candies,marshmalows
+631,chicken based products,chicken breast
+632,confectionery,waffles
+633,cheese products,eggs
+634,dressing,nut mix
+635,potato chips,potato chips
+636,Not classified pork meat,Dried pork meat
+637,pistachio nuts,sausage
+638,raw beef meat,boneless beef
+639,eggs,eggs
+640,chocolate bars,chocolate bars
+641,basil pesto sauce,muffins
+642,pretzels,fruit bars
+643,dressing,tea
+644,oats,testosterone booster
+645,pork sausage,Other
+646,dressing,turkey
+647,dressing,vegetable burger
+648,pea shoots,pea shoots
+649,breakfast cereals,halva
+650,turkey and turkey preparations,turkey and turkey preparations
+651,cheese products,Other
+652,coconuts,coconuts
+653,baby food,Other
+654,pretzels,goat cheese
+655,bread,Other
+656,biscuits,biscuits
+657,milk chocolates,chocolate
+658,potato chips,potato chips
+659,candies,milk proteins
+660,ice cream,ice cream
+661,pretzels,chocolates
+662,seasoning,seasoning mix
+663,ready to eat - cook meals,sprinkles
+664,thermal processed pork meat,other not classified meat products
+665,sauces,flavours
+666,sauces,Fishes not identified
+667,dip-sauce,eggs
+668,sauces,dumplings
+669,ice cream,ice cream
+670,chocolates,chocolates
+671,fresh vegetables,ready to eat - cook meals
+672,oysters,oysters
+673,golden raisins/sultanas,sultanas
+674,dressing,clams
+675,cheese,goat cheese
+676,Fishes not identified,buns
+677,Fishes not identified,Fishes not identified
+678,snacks (various),fennel seeds
+679,beef products,smoked sausage
+680,Fishes not identified,sausage
+681,other not classified meat products,other not classified meat products
+682,chocolate bars,chocolate truffles
+683,Fishes not identified,ready to eat - cook meals
+684,bottled water,carbonated/sparkling water
+685,chicken based products,chicken based products
+686,Fishes not identified,baking mix
+687,ready to eat - cook meals,cooked chicken
+688,pancakes,brownies
+689,tea,herbal tea
+690,cheese,pâté
+691,fish and fish products,ready to eat - cook meals
+692,raw beef meat,beef
+693,sausage,other types of meat
+694,frozen beef patties,raw beef meat
+695,sandwiches,sandwiches
+696,ice cream,ice cream
+697,dip-sauce,feta cheese
+698,raw beef meat,raw beef meat
+699,raw beef meat,raw beef meat
+700,turkey based products,turkey based products
+701,chicken based products,chicken based products
+702,raw beef meat,raw beef meat
+703,other not classified meat products,chicken pie
+704,ready to eat - cook meals,ready to eat - cook meals
+705,pesto,green pesto
+706,infant formula,infant formula
+707,frozen beef patties,frozen beef patties
+708,raw beef meat,raw beef meat
+709,confectionery,Other
+710,dressing,spread
+711,other not classified meat products,wraps
+712,dressing,tofu
+713,cooked chicken,frozen ready to cook chicken
+714,raw beef meat,raw beef meat
+715,thermal processed pork meat,thermal processed pork meat
+716,Catfishes (freshwater),tilapia
+717,soup,soup
+718,chicken based products,chicken based products
+719,cakes,cakes
+720,ground beef,ground beef
+721,pesto,pork sausage
+722,dressing,honey
+723,dressing,granola
+724,sandwiches,eggs
+725,biscuits,chocolates
+726,sandwiches,sandwiches
+727,pasta salad,eggs
+728,ready to eat - cook meals,ready to eat - cook meals
+729,salads,potato salad
+730,candies,brownies
+731,chocolate,milk chocolates
+732,dressing,margarine
+733,dressing,horses
+734,sauces,sauces
+735,wafers,wafers
+736,pesto,Other
+737,dressing,milk
+738,sandwiches,sandwiches
+739,soup,soup
+740,soups,chicken based products
+741,other not classified meat products,ready to eat meat product
+742,pesto,Other
+743,bars,smoothie
+744,pesto,lentils
+745,Fishes not identified,Fishes not identified
+746,sauce,sardines
+747,pesto,green pesto
+748,chocolate bars,dark chocolates
+749,bean sprouts,bean sprouts
+750,noodles,noodles
+751,dumplings,tuna
+752,prepared salads,salads
+753,soups,salmon
+754,chocolate,ice cream
+755,dumplings,frozen spring rolls
+756,soy products,croissants
+757,bread,bread
+758,dip-sauce,dip-sauce
+759,ready to eat - cook meals,chicken based products
+760,snacks (various),mixed nuts
+761,sandwiches,pepperoni
+762,fresh mushrooms,fresh mushrooms
+763,dumplings,chicken based products
+764,canned corn,maize
+765,candies,oats
+766,ice cream,ice cream
+767,raw beef meat,ravioli
+768,dip-sauce,dip-sauce
+769,other not classified meat products,other not classified meat products
+770,sauces,gravy mix
+771,other not classified meat products,frozen pie
+772,dip-sauce,dip-sauce
+773,ground beef,ground beef
+774,raw milk,dried cranberries
+775,peanuts,ice cream
+776,salmon,salmon
+777,curry,Other
+778,cheese,cheddar cheese
+779,soups,Other
+780,bread,pastry
+781,other not classified meat products,other not classified meat products
+782,onions,onions
+783,breakfast cereals,kale
+784,other types of meat,smoked sausage
+785,crabs,limes
+786,sauces,golden raisins/sultanas
+787,jellies,jellies
+788,soup,soup
+789,pancakes,cereal drink
+790,cakes,cakes
+791,thermal processed pork meat,Other
+792,chocolate,milk chocolate covered raisins
+793,soy products,food supplement
+794,dumplings,dumplings
+795,ready to eat - cook meals,chicken slices
+796,pork sausage,ham
+797,corn,corn
+798,dressing,corn
+799,salmon,salmon
+800,cookies,chicken based products
+801,soup,soup
+802,ground beef,ground beef
+803,thermal processed pork meat,thermal processed pork meat
+804,sweeteners,sweeteners
+805,cantaloupe (fresh),Other
+806,soy products,noodles
+807,jellies,jellies
+808,cakes,cakes
+809,cous cous,Other
+810,other types of meat,Other
+811,chicken based products,Other
+812,cheddar cheese,goat cheese
+813,bread,breakfast cereals
+814,chilli paste,chilli paste
+815,butter,cheese
+816,beer,beer
+817,breakfast cereals,Other
+818,chocolate bars,nutrition shake
+819,dressing,other not classified meat products
+820,raspberries,apples
+821,snacks (various),fruit pies
+822,muesli,rice cakes
+823,tahini,tahini
+824,snacks (various),soybean
+825,bread,sweets
+826,dates,dates
+827,mango,mango
+828,Not classified pork meat,thermal processed pork meat
+829,peanuts,cashew
+830,desserts,Other
+831,soup,soup
+832,pork sausage,pork sausage
+833,biscuits,bread and products therefor
+834,frozen vegetables,frozen seafood
+835,cakes,cakes
+836,Fishes not identified,Fishes not identified
+837,pretzels,pancakes
+838,dressing,Other
+839,salmon,salmon
+840,prepared salads,prepared dishes and snacks
+841,candies,desserts
+842,raw beef meat,ground beef
+843,basil pesto sauce,basil pesto sauce
+844,dressing,olives
+845,candies,protein balls
+846,dressing,cauliflower
+847,infant formula,multi vitamin food supplement
+848,muesli,Other
+849,pretzels,tea
+850,ready to eat - cook meals,ready to eat - cook meals
+851,chocolate,bakery products
+852,chicken,chicken based products
+853,dressing,Fishes not identified
+854,pretzels,yogurt raisins
+855,chocolate bars,chocolate bars
+856,cookies,cookies
+857,bitter apricot kernels,Other
+858,prepared dish,beef products
+859,golden raisins/sultanas,golden raisins/sultanas
+860,mashed chickpeas (hummus),mashed chickpeas (hummus)
+861,cookies,cakes
+862,trouts,trouts
+863,prepared dish,chorizo sausage
+864,cookies,dietary supplement
+865,turkey and turkey preparations,turkey and turkey preparations
+866,dates,dates
+867,pizza,frozen pizza
+868,almond products,peanuts
+869,almond products,peanuts
+870,dressing,cakes
+871,dates,duck
+872,crabs,Other
+873,potato chips,potato chips
+874,chocolate bars,chocolate bars
+875,almond products,"nuts, nut products and seeds"
+876,bread,grissini breadsticks
+877,other not classified meat products,frozen pie
+878,snack crackers,snacks (various)
+879,pretzels,ready to eat - cook meals
+880,candies,corn
+881,potato chips,potato chips
+882,fresh mushrooms,mushrooms
+883,dietary supplement,coriander
+884,dressing,spreads
+885,pet feed,pet feed
+886,dried figs,dried shitake mushrooms (lentinula edodes)
+887,shrimps,shrimps
+888,prepared dish,sauces
+889,ice cream,ice cream
+890,soups,ready to eat - cook meals
+891,dressing,mashed chickpeas (hummus)
+892,cheese products,cheddar cheese
+893,dressing,ravioli
+894,jellies,jellies
+895,cheese,cheese
+896,mushrooms,courgettes
+897,snacks (various),seasoning
+898,pet feed,pet feed
+899,potato chips,Other
+900,herring,fish and fish products
+901,dressing,cheese (taleggio capriolo)
+902,baby food,rice cereal for children
+903,cookies,bakery products
+904,prepared salads,broccoli
+905,snacks (various),buns
+906,"dietetic foods, food supplements, fortified foods",food supplement
+907,"dietetic foods, food supplements, fortified foods",food supplement
+908,soups,cakes
+909,dried shrimp noodles,dried shrimp noodles
+910,salt,salt
+911,salads,prepared salads
+912,pastry,chicken based products
+913,cooked chicken,chicken based products
+914,soup,pasta
+915,cbd products,cbd products
+916,apple juice,Other
+917,apple juice,Other
+918,ready to eat - cook meals,prepared dish
+919,salmon,salmon
+920,dressing,olives
+921,ice cream,ice cream
+922,coconut drink,noodle
+923,bean sprouts,bean sprouts
+924,shrimps,seafood
+925,chicken breast,prepared dishes
+926,prepared dish,prepared dish
+927,dressing,blueberries
+928,dietary supplement,Other
+929,bread,bread and products therefor
+930,dried apricots,Other
+931,instant noodles,noodle
+932,pretzels,feta cheese
+933,chocolate,biscuits
+934,food supplement,protein powder
+935,dried mushrooms,dates
+936,grissini breadsticks,butter
+937,horseradish in jars,walnuts
+938,prepared salads,ready to eat - cook meals
+939,turbot flatfish (psetta maxima),turbot flatfish (psetta maxima)
+940,tuna,tuna
+941,dark chocolates,white chocolate
+942,pretzels,corn
+943,prepared salads,cereals
+944,snacks (various),cashew
+945,soups,chocolate chips
+946,Catfishes (freshwater),fish products
+947,sauces,pork preparation
+948,frozen beef products,beef products
+949,pasta salad,cabbage
+950,chocolate bars,chocolate and chocolate products
+951,prepared salads,dressing sauces
+952,ginger powder,noodle
+953,soups,flour
+954,crabs,yoghurt
+955,fruits and vegetables,melons
+956,fresh mushrooms,fresh mushrooms
+957,fresh mushrooms,mushrooms
+958,olives,dried plums
+959,halloumi cheese,cheese
+960,oysters,oysters
+961,jellies,jellies
+962,pretzels,coconut milk
+963,pretzels,cookies
+964,oysters,oysters
+965,poppy,poppy
+966,confectionery,Other
+967,bars,bars
+968,poppy,blue poppy seeds
+969,soups,cheese
+970,gluten free bread,sauce
+971,Pangas catfishes (generic),shrimps
+972,thermal processed pork meat,thermal processed pork meat
+973,dressing,sausage
+974,dip-sauce,dip-sauce
+975,snacks (various),peanuts
+976,snacks (various),snacks (various)
+977,snacks (various),fruit snacks
+978,ice cream,ice cream
+979,soups,dietary supplement
+980,snacks (various),peanuts
+981,prepared salads,chilled salads
+982,prawns,prawns
+983,infant formula,infant formula
+984,raspberries,ice cream
+985,pretzels,biscuits
+986,pretzels,tomatoes
+987,Not classified pork meat,Not classified pork meat
+988,honey,Other
+989,pretzels,Other
+990,soups,Other
+991,dark chocolates,dark chocolates
+992,dumplings,chicken based products
+993,snacks (various),amaranth
+994,salmon,salmon
+995,millet,tortilla chips
+996,chocolate bars,chocolate bars
